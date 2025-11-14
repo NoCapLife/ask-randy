@@ -1,13 +1,13 @@
-# Randy Questions Bot 🤖
+# Ask Randy 🤖
 
 Slack-based Q&A system for content team to query Randy's Personal repo knowledge base with read-only MBIE access.
 
 ## What is This?
 
-**Randy Questions Bot** allows whitelisted content team members to ask questions about Randy's business philosophy, Anti-Rat Race principles, and client transformation methodologies via Slack - without direct access to the Personal repo.
+**Ask Randy** allows whitelisted content team members to ask questions about Randy's business philosophy, Anti-Rat Race principles, and client transformation methodologies via Slack - without direct access to the Personal repo.
 
 **Key Features:**
-- 💬 Natural language Q&A in Slack (#randy-questions channel)
+- 💬 Natural language Q&A in Slack (#ask-randy channel)
 - 🔍 MBIE semantic search across Personal repo memory-bank
 - 🔒 Read-only enforcement (zero write access to Personal repo)
 - 📚 Source citations for all answers
@@ -17,7 +17,7 @@ Slack-based Q&A system for content team to query Randy's Personal repo knowledge
 
 ### For Content Team Members
 
-1. **Join #randy-questions** Slack channel
+1. **Join #ask-randy** Slack channel
 2. **Ask questions** naturally:
    - "What common wisdom does Randy contradict?"
    - "How did Randy reduce Andrew's involvement by 90%?"
@@ -36,11 +36,11 @@ See `memory-bank/projectbrief.md` for complete project documentation.
 ## Architecture
 
 ```
-Slack (#randy-questions)
+Slack (#ask-randy)
     ↓
 Claude Code Slack Bot
     ↓
-Randy-Questions Repo
+Ask-Randy Repo
     ├── tools/memory_rag/ (MBIE instance)
     │   └── Queries Personal/memory-bank/ (READ-ONLY)
     ├── CLAUDE.md (Read-only enforcement)
@@ -49,7 +49,7 @@ Randy-Questions Repo
 
 ## Example Interaction
 
-**User in #randy-questions:**
+**User in #ask-randy:**
 > "What common wisdom does Randy contradict?"
 
 **Bot Response:**
@@ -104,7 +104,8 @@ Sources:
 
 ## Links
 
-- **GitHub Issue**: [#505 Randy Questions Bot](https://github.com/NoCapLife/Personal/issues/505)
+- **GitHub Repository**: https://github.com/NoCapLife/ask-randy
+- **GitHub Issue**: [#505 Ask Randy](https://github.com/NoCapLife/Personal/issues/505)
 - **Personal Repo**: Not directly accessible (read-only via MBIE)
 - **Memory-Bank Navigation**: `memory-bank/startHere.md`
 

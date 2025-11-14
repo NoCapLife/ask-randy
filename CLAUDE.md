@@ -1,4 +1,4 @@
-# CLAUDE.md - Randy Questions Bot
+# CLAUDE.md - Ask Randy
 *Read-only Q&A system for content team to query Personal repo*
 
 ## 🚨 CRITICAL: READ-ONLY MODE (MANDATORY)
@@ -7,7 +7,7 @@
 This repo provides a **Slack Q&A interface** for Randy's content team to query his Personal repo's
 knowledge base (memory-bank, MBIE, business philosophy) **WITHOUT write access**.
 
-**Channel:** `#randy-questions` in Slack
+**Channel:** `#ask-randy` in Slack
 **Users:** Whitelisted content team members only (Sebastian, etc.)
 **Access:** Read-only to Personal repo via MBIE semantic search
 
@@ -40,7 +40,7 @@ knowledge base (memory-bank, MBIE, business philosophy) **WITHOUT write access**
 
 1. **Run MBIE Query:**
 ```bash
-cd /Users/randallnguyen/GitHub/randy-questions/tools/memory_rag
+cd /Users/randallnguyen/GitHub/ask-randy/tools/memory_rag
 source mbie_env/bin/activate
 python cli.py query "user's question keywords" --current-only
 ```
@@ -111,8 +111,8 @@ Would you like me to dive deeper into any of these?
 
 ## 📚 Memory-Bank Updates (This Repo Only)
 
-### When to Update Randy-Questions Memory-Bank
-**You MAY update files in `/GitHub/randy-questions/memory-bank/` for:**
+### When to Update Ask-Randy Memory-Bank
+**You MAY update files in `/GitHub/ask-randy/memory-bank/` for:**
 - Documenting common questions and answers
 - Improving Q&A system documentation
 - Tracking usage patterns and feedback

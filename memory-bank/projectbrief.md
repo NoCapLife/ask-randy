@@ -7,7 +7,7 @@ sources_of_truth: [projectbrief.md]
 related_files: [productContext.md, activeContext.md, progress.md, tools/memory_rag/README.md, CLAUDE.md]
 ---
 
-# Project Brief: Randy Questions Bot
+# Project Brief: Ask Randy
 
 **Purpose:** Slack-based Q&A system for content team to query Randy's Personal repo knowledge base
 **Status:** Active - Template-based implementation with read-only MBIE access
@@ -17,10 +17,10 @@ related_files: [productContext.md, activeContext.md, progress.md, tools/memory_r
 
 ### What is This Project?
 
-**Randy Questions Bot** is a Slack-based Q&A interface that allows whitelisted content team members (Sebastian, etc.) to ask questions about Randy's business philosophy, strategies, and methodologies by querying the Personal repo's memory-bank via MBIE semantic search - **WITHOUT write access to the Personal repo**.
+**Ask Randy** is a Slack-based Q&A interface that allows whitelisted content team members (Sebastian, etc.) to ask questions about Randy's business philosophy, strategies, and methodologies by querying the Personal repo's memory-bank via MBIE semantic search - **WITHOUT write access to the Personal repo**.
 
 **Key Features:**
-- Slack channel: `#randy-questions`
+- Slack channel: `#ask-randy`
 - MBIE-powered semantic search of Personal repo
 - Read-only enforcement via CLAUDE.md instructions
 - Whitelist-based access control
