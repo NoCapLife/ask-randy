@@ -1,26 +1,123 @@
-# CLAUDE.md - Optimized Edition
-*High-performance guidance for Claude Code development workflows*
+# CLAUDE.md - Randy Questions Bot
+*Read-only Q&A system for content team to query Personal repo*
 
-## 🚀 Quick Reference Card (30-Second Lookup)
-**MANDATORY FIRST**: Read `memory-bank/startHere.md` → Follow `documentation-framework.md`  
-**Essential Commands**: `npm test` | `npm run lint` | `npm run build`  
-**Git Flow**: Memory-bank → `feature/issue-##-desc` → Security check → Tests → Commit → PR  
-**Testing Rule**: Write tests for ALL new components BEFORE committing  
-**Tool Selection**: Known file→Read | Pattern→Glob | Content→Grep | Unknown→Task  
-**Batch Operations**: Always combine tool calls in single message  
-**Security Check**: `git diff --cached | grep -E "(AIzaSy|sk-)" && echo "❌ API key!" && exit 1`  
-**Branch Check**: `[[ "$(git branch --show-current)" == "main" ]] && echo "❌ On main!" && exit 1`
+## 🚨 CRITICAL: READ-ONLY MODE (MANDATORY)
+
+### Project Purpose
+This repo provides a **Slack Q&A interface** for Randy's content team to query his Personal repo's
+knowledge base (memory-bank, MBIE, business philosophy) **WITHOUT write access**.
+
+**Channel:** `#randy-questions` in Slack
+**Users:** Whitelisted content team members only (Sebastian, etc.)
+**Access:** Read-only to Personal repo via MBIE semantic search
 
 ---
 
-## 🚨 CRITICAL: Essential Workflows (READ FIRST)
+## 🚨 UNIVERSAL READ-ONLY RULES (NEVER VIOLATE)
 
-### Memory-Bank Workflow (MANDATORY FIRST STEP)
-**Every development task MUST start with:**
-1. **Reference** `memory-bank/startHere.md` for project context
-2. **Follow** `documentation-framework.md` for code comments
-3. **Update** memory-bank documentation before PR commit
-4. **Ensure** code comments reference memory-bank navigation
+### ❌ FORBIDDEN OPERATIONS (Personal Repo)
+**NEVER under ANY circumstances:**
+- ❌ Write, edit, or modify files in `/GitHub/Personal/`
+- ❌ Create GitHub issues in Personal repo
+- ❌ Execute git commands in Personal repo (commit, push, etc.)
+- ❌ Modify Personal repo automation or workflows
+- ❌ Update Personal repo memory-bank files
+- ❌ Create branches in Personal repo
+
+### ✅ ALLOWED OPERATIONS
+**ONLY these operations are permitted:**
+- ✅ Read files from Personal repo via MBIE queries
+- ✅ Answer questions using retrieved context
+- ✅ Update randy-questions memory-bank (this repo only)
+- ✅ Commit documentation changes to this repo
+
+---
+
+## 🔍 MBIE Query Instructions (MANDATORY FOR ALL QUESTIONS)
+
+### How to Answer Questions
+**For EVERY user question, follow this exact workflow:**
+
+1. **Run MBIE Query:**
+```bash
+cd /Users/randallnguyen/GitHub/randy-questions/tools/memory_rag
+source mbie_env/bin/activate
+python cli.py query "user's question keywords" --current-only
+```
+
+2. **Extract Relevant Context:**
+- Read the MBIE search results
+- Identify relevant passages from Personal repo
+- Note source file paths for citations
+
+3. **Format Response:**
+```
+[Answer question concisely using retrieved context]
+
+Sources:
+- Personal/memory-bank/[file-path] (specific section)
+- Personal/docs/[file-path] (relevant context)
+```
+
+### Example MBIE Queries
+
+**User asks:** "What common wisdom does Randy contradict?"
+```bash
+python cli.py query "common wisdom Randy contradicts Anti-Rat Race" --current-only
+```
+
+**User asks:** "How did Randy reduce Andrew's involvement by 90%?"
+```bash
+python cli.py query "Andrew SleekShop 90% reduction transformation" --current-only
+```
+
+**User asks:** "What is the Portfolio CEO strategy?"
+```bash
+python cli.py query "Portfolio CEO evolution strategy 100M" --current-only
+```
+
+---
+
+## 📋 Response Format Template
+
+**Use this exact format for all responses:**
+
+```markdown
+[Direct answer to user's question based on MBIE results]
+
+**Key Points:**
+1. [First key point from Personal repo context]
+2. [Second key point]
+3. [Third key point]
+
+**Sources:**
+- `Personal/memory-bank/[file].md` - [Brief description]
+- `Personal/docs/[file].md` - [Brief description]
+
+Would you like me to dive deeper into any of these?
+```
+
+---
+
+## 🔒 Whitelist Enforcement
+
+**Only these Slack users can interact with this bot:**
+- Sebastian (content team lead)
+- [Add additional team members to .env ALLOWED_USER_IDS]
+
+**Bot automatically rejects unauthorized users.**
+
+---
+
+## 📚 Memory-Bank Updates (This Repo Only)
+
+### When to Update Randy-Questions Memory-Bank
+**You MAY update files in `/GitHub/randy-questions/memory-bank/` for:**
+- Documenting common questions and answers
+- Improving Q&A system documentation
+- Tracking usage patterns and feedback
+
+**NEVER update Personal repo memory-bank files.**
 
 ### Testing Workflow (MANDATORY)
 **All implementation MUST include comprehensive testing:**
