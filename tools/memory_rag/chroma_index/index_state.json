@@ -1,0 +1,2504 @@
+{
+  "techContext.md": {
+    "absolute_path": "../../../Personal/memory-bank/techContext.md",
+    "hash": "cfe143d8325a7339c31269b8a7936180",
+    "mtime": 1762498364.0801427,
+    "size": 6671
+  },
+  "AI_GUIDE.md": {
+    "absolute_path": "../../../Personal/memory-bank/AI_GUIDE.md",
+    "hash": "df0f4ea9ed7b657106ab7de0bcd3fc1f",
+    "mtime": 1762498362.8349226,
+    "size": 10236
+  },
+  "executiveSummary.md": {
+    "absolute_path": "../../../Personal/memory-bank/executiveSummary.md",
+    "hash": "64cd9295f58436c9fcab577893ce9894",
+    "mtime": 1762498362.9048092,
+    "size": 5225
+  },
+  "activeContext.md": {
+    "absolute_path": "../../../Personal/memory-bank/activeContext.md",
+    "hash": "a6bf76043399d03a7da3655129787fdb",
+    "mtime": 1763131170.1905437,
+    "size": 55546
+  },
+  "progress.md": {
+    "absolute_path": "../../../Personal/memory-bank/progress.md",
+    "hash": "61e903704210702a629b67031d70ae77",
+    "mtime": 1762987624.294056,
+    "size": 16245
+  },
+  "test-enhanced-hooks.md": {
+    "absolute_path": "../../../Personal/memory-bank/test-enhanced-hooks.md",
+    "hash": "b58ce3b48afc5274a897c200e21b43f9",
+    "mtime": 1762498364.0813704,
+    "size": 364
+  },
+  "productContext.md": {
+    "absolute_path": "../../../Personal/memory-bank/productContext.md",
+    "hash": "612231b7770008a86cfc2c5a978420c3",
+    "mtime": 1762498363.5812738,
+    "size": 3027
+  },
+  "ceo-dashboard.md": {
+    "absolute_path": "../../../Personal/memory-bank/ceo-dashboard.md",
+    "hash": "fa29085ceb2c8c7dffec442bfe194359",
+    "mtime": 1763131170.2034676,
+    "size": 17427
+  },
+  "projectbrief.md": {
+    "absolute_path": "../../../Personal/memory-bank/projectbrief.md",
+    "hash": "fe0315d46633bdc358a633aeb78fd117",
+    "mtime": 1762498363.589981,
+    "size": 9269
+  },
+  "dashboard-specification.md": {
+    "absolute_path": "../../../Personal/memory-bank/dashboard-specification.md",
+    "hash": "1a307cfc04f2b1b0faa5f025b8bcb8cf",
+    "mtime": 1762498362.9028711,
+    "size": 5340
+  },
+  "automationSuite.md": {
+    "absolute_path": "../../../Personal/memory-bank/automationSuite.md",
+    "hash": "631d9fc76ee5e6ff188505b14abc3d0b",
+    "mtime": 1762498362.8990374,
+    "size": 9131
+  },
+  "systemPatterns.md": {
+    "absolute_path": "../../../Personal/memory-bank/systemPatterns.md",
+    "hash": "7c4d53b4fcfa81578af71d0d46f54a05",
+    "mtime": 1762498364.0635169,
+    "size": 7411
+  },
+  "startHere.md": {
+    "absolute_path": "../../../Personal/memory-bank/startHere.md",
+    "hash": "66bbbd5c4f680d4ac4c83f9ed9129ed4",
+    "mtime": 1763051013.816109,
+    "size": 28220
+  },
+  "journal/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/README.md",
+    "hash": "38fab066915555d837c8f9ae0738895f",
+    "mtime": 1762498363.5533638,
+    "size": 4461
+  },
+  "journal/current-context.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/current-context.md",
+    "hash": "014de77d2da255acc74321831428220f",
+    "mtime": 1762987624.293617,
+    "size": 31207
+  },
+  "journal/current-context-processed.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/current-context-processed.md",
+    "hash": "a2a70c726af5a763587115ce617ef587",
+    "mtime": 1762987624.293224,
+    "size": 15867
+  },
+  "journal/insights/workout-periodization-plan.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/insights/workout-periodization-plan.md",
+    "hash": "5f2ef262603322597515880b6c34301e",
+    "mtime": 1762612686.791717,
+    "size": 9024
+  },
+  "journal/insights/health-energy.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/insights/health-energy.md",
+    "hash": "3d559417b547b84b4fefbb87a0e62c04",
+    "mtime": 1762498363.5693886,
+    "size": 4250
+  },
+  "journal/insights/decision-log.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/insights/decision-log.md",
+    "hash": "8973f4785f7f24f70b7a013103ff7c3d",
+    "mtime": 1762498363.5635147,
+    "size": 1466
+  },
+  "journal/insights/recurring-themes.md": {
+    "absolute_path": "../../../Personal/memory-bank/journal/insights/recurring-themes.md",
+    "hash": "337fb4d75ac6c01b2a503c31f26bc5c8",
+    "mtime": 1762498363.5720642,
+    "size": 1984
+  },
+  "tools/hybrid-po-solution.md": {
+    "absolute_path": "../../../Personal/memory-bank/tools/hybrid-po-solution.md",
+    "hash": "c160553d44581196425c7b695fe3f3f6",
+    "mtime": 1762498364.086876,
+    "size": 8633
+  },
+  "tools/hybrid-po-solution/docs/V2.2_IMPLEMENTATION_DOCUMENTATION.md": {
+    "absolute_path": "../../../Personal/memory-bank/tools/hybrid-po-solution/docs/V2.2_IMPLEMENTATION_DOCUMENTATION.md",
+    "hash": "f6ac065886689ef67155b45bfc60e5e3",
+    "mtime": 1762498367.8260474,
+    "size": 17328
+  },
+  "tools/hybrid-po-solution/docs/V2.3_ROLLBACK_AND_FIX_SUMMARY.md": {
+    "absolute_path": "../../../Personal/memory-bank/tools/hybrid-po-solution/docs/V2.3_ROLLBACK_AND_FIX_SUMMARY.md",
+    "hash": "dfd9667fc138851de2440d5a1fdc9547",
+    "mtime": 1762498367.8283715,
+    "size": 8877
+  },
+  "tools/hybrid-po-solution/docs/COPY_ZONE_COVERAGE_FIX.md": {
+    "absolute_path": "../../../Personal/memory-bank/tools/hybrid-po-solution/docs/COPY_ZONE_COVERAGE_FIX.md",
+    "hash": "5875b2f5549fa8af7bd1e0a9ce44c695",
+    "mtime": 1762498367.8170989,
+    "size": 9560
+  },
+  "tools/hybrid-po-solution/docs/CRITICAL_ISSUE_ANALYSIS.md": {
+    "absolute_path": "../../../Personal/memory-bank/tools/hybrid-po-solution/docs/CRITICAL_ISSUE_ANALYSIS.md",
+    "hash": "214c93178db1f8b977477779e1d05e39",
+    "mtime": 1762498367.8217657,
+    "size": 13794
+  },
+  "archive/pivotal-week-strategic-evolution.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/pivotal-week-strategic-evolution.md",
+    "hash": "9062bbb173b4a20e17c4448f9c9da19f",
+    "mtime": 1762498362.8922238,
+    "size": 6790
+  },
+  "archive/projects/annees-coffee/context.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/projects/annees-coffee/context.md",
+    "hash": "d5725e6847c6238aa62f2c5d6787bf25",
+    "mtime": 1762612686.7888823,
+    "size": 4508
+  },
+  "archive/projects/annees-coffee/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/projects/annees-coffee/CHANGELOG.md",
+    "hash": "d71aeab434c4eac64055d2e31b7b8e40",
+    "mtime": 1762612686.7884662,
+    "size": 6342
+  },
+  "archive/projects/annees-coffee/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/projects/annees-coffee/README.md",
+    "hash": "8e1bdbceb01e60776c321cb92fa8da20",
+    "mtime": 1762612686.78866,
+    "size": 3771
+  },
+  "archive/features/reddit/reddit-automation-dual-write/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation-dual-write/requirements.md",
+    "hash": "9ba32d83f5173f017b912461f121de35",
+    "mtime": 1762498362.8436518,
+    "size": 5200
+  },
+  "archive/features/reddit/reddit-automation-dual-write/rollback-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation-dual-write/rollback-strategy.md",
+    "hash": "d381ba365964c01c1a2727fedffc6716",
+    "mtime": 1762498362.843905,
+    "size": 9570
+  },
+  "archive/features/reddit/reddit-automation-dual-write/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation-dual-write/README.md",
+    "hash": "2222ac3d1a968f17176c9bd458c287ce",
+    "mtime": 1762498362.843316,
+    "size": 2322
+  },
+  "archive/features/reddit/reddit-automation-dual-write/runbooks.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation-dual-write/runbooks.md",
+    "hash": "e489b4c531e02ae13a1adba6f0da697b",
+    "mtime": 1762498362.8451412,
+    "size": 9081
+  },
+  "archive/features/reddit/reddit-automation-dual-write/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation-dual-write/technical-design.md",
+    "hash": "f51d731f48840ea3a216430895efb1d8",
+    "mtime": 1762498362.8454206,
+    "size": 11117
+  },
+  "archive/features/reddit/reddit-automation/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/requirements.md",
+    "hash": "45c5bb7b295ae79be2b2782bad199328",
+    "mtime": 1762498362.8568015,
+    "size": 6518
+  },
+  "archive/features/reddit/reddit-automation/quality-improvements.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/quality-improvements.md",
+    "hash": "d7aeae70a84d36e0a20bb0c3e98f1c2b",
+    "mtime": 1762498362.8564634,
+    "size": 18306
+  },
+  "archive/features/reddit/reddit-automation/button-fix-implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/button-fix-implementation.md",
+    "hash": "636d9eb9b052a9f6778701b1acb1a9c9",
+    "mtime": 1762498362.8470504,
+    "size": 10903
+  },
+  "archive/features/reddit/reddit-automation/dashboard-simplification.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/dashboard-simplification.md",
+    "hash": "7f4a65549ba117f32168122fbdb5de24",
+    "mtime": 1762498362.8472872,
+    "size": 7916
+  },
+  "archive/features/reddit/reddit-automation/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/README.md",
+    "hash": "6ff29c8434e1752638171ec378339857",
+    "mtime": 1762498362.8456285,
+    "size": 3704
+  },
+  "archive/features/reddit/reddit-automation/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/user-experience.md",
+    "hash": "1c25c227accb1f20383cc44a95bb91f4",
+    "mtime": 1762498362.8591242,
+    "size": 10664
+  },
+  "archive/features/reddit/reddit-automation/date-range-filtering.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/date-range-filtering.md",
+    "hash": "0d954b067430de8e04e55ce175f77ce1",
+    "mtime": 1762498362.8476064,
+    "size": 12648
+  },
+  "archive/features/reddit/reddit-automation/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/technical-design.md",
+    "hash": "20e00a52bab2ccf5e47c7ba2b9665332",
+    "mtime": 1762498362.857042,
+    "size": 18326
+  },
+  "archive/features/reddit/reddit-automation/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/testing-strategy.md",
+    "hash": "ab62bdb23c28646ffe5630e7c4f9d115",
+    "mtime": 1762498362.8582804,
+    "size": 15144
+  },
+  "archive/features/reddit/reddit-automation/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/decisions.md",
+    "hash": "a8984c1f1a92dbb06cad9a9c0533101b",
+    "mtime": 1762498362.8479364,
+    "size": 10381
+  },
+  "archive/features/reddit/reddit-automation/tools.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-automation/tools.md",
+    "hash": "c2e6830cd78053fd9f67a3fdf01baa09",
+    "mtime": 1762498362.8587036,
+    "size": 9928
+  },
+  "archive/features/reddit/reddit-dashboard/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard/README.md",
+    "hash": "61f932e9b450695f33585f03819b5757",
+    "mtime": 1762498362.8863866,
+    "size": 4786
+  },
+  "archive/features/reddit/reddit-dashboard/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard/user-experience.md",
+    "hash": "41dd63f493478ed99445c402d39a6328",
+    "mtime": 1762498362.8880844,
+    "size": 14632
+  },
+  "archive/features/reddit/reddit-dashboard/storage-evaluation.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard/storage-evaluation.md",
+    "hash": "c3a87369e9f35efdad5e049a80c62cbb",
+    "mtime": 1762498362.8865976,
+    "size": 6028
+  },
+  "archive/features/reddit/reddit-dashboard-v2-supabase/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2-supabase/requirements.md",
+    "hash": "900a6ba7ceb5be1f7789c140c9af9646",
+    "mtime": 1762498362.8596206,
+    "size": 6450
+  },
+  "archive/features/reddit/reddit-dashboard-v2-supabase/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2-supabase/README.md",
+    "hash": "aecadfb809d7a0e7e5b3fccd19b2153b",
+    "mtime": 1762498362.8594124,
+    "size": 2695
+  },
+  "archive/features/reddit/reddit-dashboard-v2-supabase/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2-supabase/technical-design.md",
+    "hash": "676db84938d575f15985b491e5c7ae8a",
+    "mtime": 1762498362.860259,
+    "size": 19508
+  },
+  "archive/features/reddit/reddit-dashboard-v2/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/implementation.md",
+    "hash": "499d3037019775e5c9e5a170504c2e7f",
+    "mtime": 1762498362.8834233,
+    "size": 39110
+  },
+  "archive/features/reddit/reddit-dashboard-v2/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/requirements.md",
+    "hash": "d81c1ad9fd0335d24e697e6cea128299",
+    "mtime": 1762498362.883737,
+    "size": 7616
+  },
+  "archive/features/reddit/reddit-dashboard-v2/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/README.md",
+    "hash": "ac879944aaeaf0d36e6a1fff8b97d637",
+    "mtime": 1762498362.8605547,
+    "size": 4907
+  },
+  "archive/features/reddit/reddit-dashboard-v2/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/user-experience.md",
+    "hash": "b4b944d4b315504c85ea0346dc8f3236",
+    "mtime": 1762498362.8859956,
+    "size": 9473
+  },
+  "archive/features/reddit/reddit-dashboard-v2/date-filtering.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/date-filtering.md",
+    "hash": "30db3b47e7308996c237967ff96ebae4",
+    "mtime": 1762498362.861007,
+    "size": 23950
+  },
+  "archive/features/reddit/reddit-dashboard-v2/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/technical-design.md",
+    "hash": "9b8759e815acc34d4461460f705e7d6d",
+    "mtime": 1762498362.8854024,
+    "size": 21132
+  },
+  "archive/features/reddit/reddit-dashboard-v2/content-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/content-strategy.md",
+    "hash": "2141f0ec0939c4647a688e5485fed98b",
+    "mtime": 1762498362.8608,
+    "size": 10831
+  },
+  "archive/features/reddit/reddit-dashboard-v2/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/testing-strategy.md",
+    "hash": "870dcfb19108e56815c448e9706b022b",
+    "mtime": 1762498362.885672,
+    "size": 28521
+  },
+  "archive/features/reddit/reddit-dashboard-v2/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/archive/features/reddit/reddit-dashboard-v2/decisions.md",
+    "hash": "344c9f406b6ae6b734c239e7ee4257bb",
+    "mtime": 1762498362.8818698,
+    "size": 11095
+  },
+  "projects/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/README.md",
+    "hash": "61ccf9891ce38f6d4afd6f842855aaf8",
+    "mtime": 1763051013.7519293,
+    "size": 10112
+  },
+  "projects/anti-rat-race-ebook-authoring-plan.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook-authoring-plan.md",
+    "hash": "e25dd7fe7b91197102951c95fd41614f",
+    "mtime": 1762498363.6024525,
+    "size": 51575
+  },
+  "projects/pe-partnership-greg/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/CHANGELOG.md",
+    "hash": "b0d60d30a8a440dfb9b80a722785a412",
+    "mtime": 1763048963.5453043,
+    "size": 10877
+  },
+  "projects/pe-partnership-greg/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/README.md",
+    "hash": "f5f3a97804b41a7d9b1e34cf908ba163",
+    "mtime": 1763048975.467392,
+    "size": 14312
+  },
+  "projects/pe-partnership-greg/analysis/gemini-pe-prompt.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/analysis/gemini-pe-prompt.md",
+    "hash": "00f4b762d3cfdc28077b60c9933ce03b",
+    "mtime": 1762999609.2008197,
+    "size": 11390
+  },
+  "projects/pe-partnership-greg/analysis/claude-vs-gemini-pe-analysis.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/analysis/claude-vs-gemini-pe-analysis.md",
+    "hash": "0ec020f8296a088322b4c062450854e8",
+    "mtime": 1762999917.3237495,
+    "size": 22138
+  },
+  "projects/pe-partnership-greg/analysis/gemini-pe-acquisition-analysis.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/analysis/gemini-pe-acquisition-analysis.md",
+    "hash": "36bd553a3da9207f4a5508d18339a813",
+    "mtime": 1762999784.2055285,
+    "size": 15079
+  },
+  "projects/pe-partnership-greg/coordination/pe-acquisition-issue.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/coordination/pe-acquisition-issue.md",
+    "hash": "e2586212c7b2692e4f810d69fde43d67",
+    "mtime": 1762998681.7569857,
+    "size": 15837
+  },
+  "projects/pe-partnership-greg/strategy/pe-acquisition-strategy-randy-greg-partnership.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/strategy/pe-acquisition-strategy-randy-greg-partnership.md",
+    "hash": "6a4368b011d5fbf131f21b1d72279fe6",
+    "mtime": 1762996802.673535,
+    "size": 73679
+  },
+  "projects/pe-partnership-greg/strategy/deal-sourcing-strategies-randy-greg.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/pe-partnership-greg/strategy/deal-sourcing-strategies-randy-greg.md",
+    "hash": "b9f4060ed6f36648118c6240e749a906",
+    "mtime": 1762997828.1228135,
+    "size": 86461
+  },
+  "projects/arterai-partnership/context.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/arterai-partnership/context.md",
+    "hash": "380ba32fc6b58d100738a5ea0df2125e",
+    "mtime": 1762498363.9097612,
+    "size": 6383
+  },
+  "projects/arterai-partnership/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/arterai-partnership/CHANGELOG.md",
+    "hash": "297987ca6cae332d8223f6f2f35ef9d4",
+    "mtime": 1762498363.900203,
+    "size": 7105
+  },
+  "projects/arterai-partnership/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/arterai-partnership/README.md",
+    "hash": "19db71031885319c1840a43d2f95b4c5",
+    "mtime": 1762612683.182299,
+    "size": 4365
+  },
+  "projects/mbie-decision-clone/context.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/mbie-decision-clone/context.md",
+    "hash": "afeff73e6cea1010887357be20839d5f",
+    "mtime": 1762612686.79545,
+    "size": 12361
+  },
+  "projects/mbie-decision-clone/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/mbie-decision-clone/CHANGELOG.md",
+    "hash": "d789be472657b5ea0cab37a1b1b873f9",
+    "mtime": 1762612686.7949529,
+    "size": 4423
+  },
+  "projects/mbie-decision-clone/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/mbie-decision-clone/README.md",
+    "hash": "81695037a99eaddeb068c752dd050e9b",
+    "mtime": 1762612686.7951877,
+    "size": 5362
+  },
+  "projects/landing-pages/kit-situation-audit-copy.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/landing-pages/kit-situation-audit-copy.md",
+    "hash": "ff33f124b13beb130db2ac9a5e0f3cef",
+    "mtime": 1762987624.3007429,
+    "size": 7515
+  },
+  "projects/cms-ai-first/agent-c-subscriptions.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/cms-ai-first/agent-c-subscriptions.md",
+    "hash": "f47e6d5914135d82745eea83b1ee6b26",
+    "mtime": 1762731331.7435415,
+    "size": 1749
+  },
+  "projects/cms-ai-first/agent-b-blog.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/cms-ai-first/agent-b-blog.md",
+    "hash": "e06a213d2f722f2a9eb05b6de89da2d2",
+    "mtime": 1762731331.7434359,
+    "size": 2909
+  },
+  "projects/cms-ai-first/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/cms-ai-first/CHANGELOG.md",
+    "hash": "ce1b0bee4355949bbf50f307e0f9e6ae",
+    "mtime": 1762731331.7428079,
+    "size": 6637
+  },
+  "projects/cms-ai-first/agent-a-database.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/cms-ai-first/agent-a-database.md",
+    "hash": "2451a2696ff61ae2bebb6e01fc5c05a4",
+    "mtime": 1762731331.743324,
+    "size": 1983
+  },
+  "projects/cms-ai-first/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/cms-ai-first/README.md",
+    "hash": "301d2309e304bf91e53295917d5d68d0",
+    "mtime": 1762731331.7431998,
+    "size": 8580
+  },
+  "projects/cms-ai-first/agent-d-dashboards.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/cms-ai-first/agent-d-dashboards.md",
+    "hash": "364cb2afabb55ea40292f6f1edc861cd",
+    "mtime": 1762731331.7436423,
+    "size": 2884
+  },
+  "projects/content-engine-sebasthian/video-production-log.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/content-engine-sebasthian/video-production-log.md",
+    "hash": "fe34654694cfde4d10fcdff33829bb0f",
+    "mtime": 1762498363.9343555,
+    "size": 8012
+  },
+  "projects/content-engine-sebasthian/context.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/content-engine-sebasthian/context.md",
+    "hash": "9bf7b43ff5b8e5e72ab29178c8e71b85",
+    "mtime": 1762498363.921691,
+    "size": 6066
+  },
+  "projects/content-engine-sebasthian/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/content-engine-sebasthian/CHANGELOG.md",
+    "hash": "de02dfb0cad808da08f036bcd4b7982a",
+    "mtime": 1762987624.3000655,
+    "size": 4420
+  },
+  "projects/content-engine-sebasthian/production-timeline.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/content-engine-sebasthian/production-timeline.md",
+    "hash": "664067f05a5f9a86f936d5cb66a63f99",
+    "mtime": 1762498363.9277601,
+    "size": 10064
+  },
+  "projects/content-engine-sebasthian/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/content-engine-sebasthian/README.md",
+    "hash": "ba4fcfab021c0442afb65d01b40eb7b0",
+    "mtime": 1762612683.1826468,
+    "size": 5806
+  },
+  "projects/va-hiring-marianne/context.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/va-hiring-marianne/context.md",
+    "hash": "cac8a8caca44c04fac3c4b720f838a78",
+    "mtime": 1762498363.9864101,
+    "size": 8701
+  },
+  "projects/va-hiring-marianne/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/va-hiring-marianne/CHANGELOG.md",
+    "hash": "ced4d2ded499c0a3c24d98029a9aafda",
+    "mtime": 1762498363.9816043,
+    "size": 2160
+  },
+  "projects/va-hiring-marianne/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/va-hiring-marianne/README.md",
+    "hash": "864d4e7809bdb7a0cc0f0b78c659b32e",
+    "mtime": 1762612683.185251,
+    "size": 3870
+  },
+  "projects/anti-rat-race-ebook/STORY-VERIFICATION-SUMMARY.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/STORY-VERIFICATION-SUMMARY.md",
+    "hash": "db9478f6754c74b2aed23630c56e794f",
+    "mtime": 1762612686.7933576,
+    "size": 17220
+  },
+  "projects/anti-rat-race-ebook/STORY-BANK-CASE-STUDY-SOLUTIONS.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/STORY-BANK-CASE-STUDY-SOLUTIONS.md",
+    "hash": "b513bf00175e7a6553467ddbe3100565",
+    "mtime": 1762612686.793143,
+    "size": 19921
+  },
+  "projects/anti-rat-race-ebook/EXPERT-COMPARISON-FRAMEWORK.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/EXPERT-COMPARISON-FRAMEWORK.md",
+    "hash": "b439c14c6c2f0671b2be46f0286b73bf",
+    "mtime": 1762612686.7929096,
+    "size": 30264
+  },
+  "projects/anti-rat-race-ebook/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/README.md",
+    "hash": "11ce38d87c34f0b84e1c1456b13fce9d",
+    "mtime": 1763135467.4887066,
+    "size": 8434
+  },
+  "projects/anti-rat-race-ebook/BOOK-IP-REBRANDING-ANALYSIS.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/BOOK-IP-REBRANDING-ANALYSIS.md",
+    "hash": "655c4bd0bc7566ee0ed056ffdc986d96",
+    "mtime": 1762612686.7926702,
+    "size": 15158
+  },
+  "projects/anti-rat-race-ebook/randy-asides-collection.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/randy-asides-collection.md",
+    "hash": "a609497c249aba978849e326f2a93215",
+    "mtime": 1762498363.7372763,
+    "size": 11975
+  },
+  "projects/anti-rat-race-ebook/voice-transformation-roadmap.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/voice-transformation-roadmap.md",
+    "hash": "97fd444eba4832c62454b82b6cc01d2a",
+    "mtime": 1762498363.8985462,
+    "size": 13445
+  },
+  "projects/anti-rat-race-ebook/WEEK-1-PUBLICATION-PREP.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/WEEK-1-PUBLICATION-PREP.md",
+    "hash": "32b5dcddebd6a923e2ffe28a4a41e6f7",
+    "mtime": 1763149280.1409347,
+    "size": 10434
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/CHANGE-LOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/CHANGE-LOG.md",
+    "hash": "2ede452788b995f52c6fe845f178a2e9",
+    "mtime": 1763148532.1456246,
+    "size": 5634
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-3-bce-overview.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-3-bce-overview.md",
+    "hash": "bfbc9bd8506051829bbc34585fbe1d77",
+    "mtime": 1763148464.8777928,
+    "size": 28788
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-7-delegation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-7-delegation.md",
+    "hash": "99a01135922ce8c00007721944da43ae",
+    "mtime": 1763146143.1254447,
+    "size": 41471
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-8-independence-validation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-8-independence-validation.md",
+    "hash": "eca46630eb8dfbe6bdf99162f7aa0877",
+    "mtime": 1763058063.6904688,
+    "size": 71918
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-4-business-clarity-audit.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-4-business-clarity-audit.md",
+    "hash": "84207ef582752ab3ca76cf8a49523f7c",
+    "mtime": 1763146089.4715922,
+    "size": 50362
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-5-founder-time-audit.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-5-founder-time-audit.md",
+    "hash": "eb8af24400599a7cb4e0300dc73598db",
+    "mtime": 1763058063.6815474,
+    "size": 32852
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-6-system-build-automation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/02-BCE-METHODOLOGY/chapter-6-system-build-automation.md",
+    "hash": "1134a6f04adb3c0ca05ef7fa9e1a0561",
+    "mtime": 1763058063.684733,
+    "size": 40166
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/03-IMPLEMENTATION/chapter-10-maintaining-freedom.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/03-IMPLEMENTATION/chapter-10-maintaining-freedom.md",
+    "hash": "394bfcfa493c2b5f479fddea6811320f",
+    "mtime": 1763148308.484193,
+    "size": 44170
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/03-IMPLEMENTATION/chapter-9-90-day-escape-plan.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/03-IMPLEMENTATION/chapter-9-90-day-escape-plan.md",
+    "hash": "42990c9adda7bca5ba85ebec27208d9d",
+    "mtime": 1763145950.3475728,
+    "size": 64281
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/00-INTRODUCTION/introduction.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/00-INTRODUCTION/introduction.md",
+    "hash": "786e015c8b3842ddbc20734d3f688cbe",
+    "mtime": 1763148326.0477853,
+    "size": 40842
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/revenue-protection-playbook.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/revenue-protection-playbook.md",
+    "hash": "a86d371b82aa2cebf9e34b2071acf9f7",
+    "mtime": 1763099796.2047458,
+    "size": 25402
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/formula-templates.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/formula-templates.md",
+    "hash": "49e18e6498f6745b5f9b11cea01fb483",
+    "mtime": 1763090994.228053,
+    "size": 16409
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/case-study-library.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/case-study-library.md",
+    "hash": "fa9614af99d4219a748b7da330700407",
+    "mtime": 1763099507.6518555,
+    "size": 34231
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/formulas-quick-reference-card.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/formulas-quick-reference-card.md",
+    "hash": "b70c5c7d7b281decb23ec43194658d71",
+    "mtime": 1763090829.5509005,
+    "size": 6840
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/business-clarity-audit-diagnostic.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/05-QUICK-REFERENCE/business-clarity-audit-diagnostic.md",
+    "hash": "8a8f2e92489d426a39721a09a3c6729c",
+    "mtime": 1763099071.9317946,
+    "size": 26622
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-d-90-day-tracker.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-d-90-day-tracker.md",
+    "hash": "ccffd46807b5c5f22ac2d87b243c1ba0",
+    "mtime": 1763148393.6422174,
+    "size": 32376
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-b-bce-workbook.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-b-bce-workbook.md",
+    "hash": "372d8876bd4a8c88bd0637cecdd265ed",
+    "mtime": 1763148373.1001387,
+    "size": 46424
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-a-key-person-risk-assessment.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-a-key-person-risk-assessment.md",
+    "hash": "f7982730f0fc83ad4da121c5375a1a8c",
+    "mtime": 1763148348.6903691,
+    "size": 46525
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-e-implementation-guardrails.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-e-implementation-guardrails.md",
+    "hash": "2c241d83ccd40b4a52589a2331d6e91d",
+    "mtime": 1763148404.6675546,
+    "size": 37654
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-c-dont-want-list-mvf-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/04-APPENDICES/appendix-c-dont-want-list-mvf-framework.md",
+    "hash": "46deee782145f402abf69583e0fad690",
+    "mtime": 1763148383.0131733,
+    "size": 41145
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/01-DIAGNOSIS/chapter-1-key-person-risk.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/01-DIAGNOSIS/chapter-1-key-person-risk.md",
+    "hash": "0912ab8c4c2c497e914e2206cb472339",
+    "mtime": 1763148487.820018,
+    "size": 51815
+  },
+  "projects/anti-rat-race-ebook/LATEST-VERSION/01-DIAGNOSIS/chapter-2-anti-rat-race-principles.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/LATEST-VERSION/01-DIAGNOSIS/chapter-2-anti-rat-race-principles.md",
+    "hash": "65fa823c22d96c81fa9a9a1dea9a1c9a",
+    "mtime": 1763146063.555294,
+    "size": 43133
+  },
+  "projects/anti-rat-race-ebook/coordination/AGENT-QUICKSTART-VISUAL.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/AGENT-QUICKSTART-VISUAL.md",
+    "hash": "24e37511ef22c790c5d1776aea68a5c9",
+    "mtime": 1762498363.6360455,
+    "size": 8387
+  },
+  "projects/anti-rat-race-ebook/coordination/DEPLOY-TO-AGENTS.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/DEPLOY-TO-AGENTS.md",
+    "hash": "a64e826dc4ffabeacbc40d5af00188dc",
+    "mtime": 1762498363.6456506,
+    "size": 8042
+  },
+  "projects/anti-rat-race-ebook/coordination/icp-analysis-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/icp-analysis-framework.md",
+    "hash": "5ca691e7f5cf95cff5ded6009ee094c5",
+    "mtime": 1762498363.7233236,
+    "size": 9338
+  },
+  "projects/anti-rat-race-ebook/coordination/QA-AUDIT-COMPREHENSIVE.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/QA-AUDIT-COMPREHENSIVE.md",
+    "hash": "1c845a0456d7632ad59c38f77574746c",
+    "mtime": 1762498363.6764977,
+    "size": 6963
+  },
+  "projects/anti-rat-race-ebook/coordination/READ-ME-FIRST-100-PERCENT-DIRECTIVE.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/READ-ME-FIRST-100-PERCENT-DIRECTIVE.md",
+    "hash": "938caa04c0bb24be093281cc1552bb28",
+    "mtime": 1762498363.690988,
+    "size": 1977
+  },
+  "projects/anti-rat-race-ebook/coordination/PROJECT-100-PERCENT-COMPLETE.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/PROJECT-100-PERCENT-COMPLETE.md",
+    "hash": "ce48e89ecfbcb4bee0b1004409c3e656",
+    "mtime": 1762498363.670401,
+    "size": 9376
+  },
+  "projects/anti-rat-race-ebook/coordination/PHASE-1-CHECKPOINT-REVIEW.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/PHASE-1-CHECKPOINT-REVIEW.md",
+    "hash": "b1147f19765642d2e5264d1e205ac8c6",
+    "mtime": 1762498363.663803,
+    "size": 13175
+  },
+  "projects/anti-rat-race-ebook/coordination/VOICE-TRANSFORMATION-COMPLETE-SUMMARY.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/VOICE-TRANSFORMATION-COMPLETE-SUMMARY.md",
+    "hash": "80334c8ccafa0cf2a0c0b58de10dc0bc",
+    "mtime": 1762498363.701074,
+    "size": 12678
+  },
+  "projects/anti-rat-race-ebook/coordination/icp-analysis-results.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/icp-analysis-results.md",
+    "hash": "3dd5fe6041a74fc397dc8b3e8e86d220",
+    "mtime": 1762498363.7283578,
+    "size": 36710
+  },
+  "projects/anti-rat-race-ebook/coordination/brand-guidelines-spot-check.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/brand-guidelines-spot-check.md",
+    "hash": "a4eb2008d913a6c1eb2520a614c5d861",
+    "mtime": 1762498363.7160175,
+    "size": 12909
+  },
+  "projects/anti-rat-race-ebook/coordination/SESSION-HANDOFF.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/SESSION-HANDOFF.md",
+    "hash": "20ceb767e3bd408b7641d2e9065fa93c",
+    "mtime": 1762612686.79385,
+    "size": 9945
+  },
+  "projects/anti-rat-race-ebook/coordination/QA-FINAL-REPORT.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/QA-FINAL-REPORT.md",
+    "hash": "13c1079112ce8932cebcf324c58fafd4",
+    "mtime": 1762498363.6824157,
+    "size": 19339
+  },
+  "projects/anti-rat-race-ebook/coordination/AGENT-D-SESSION-NOTES.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/AGENT-D-SESSION-NOTES.md",
+    "hash": "38068ae705c21e99d03e70e1285095b9",
+    "mtime": 1762612686.7936075,
+    "size": 7872
+  },
+  "projects/anti-rat-race-ebook/coordination/100-percent-completion-directive.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/100-percent-completion-directive.md",
+    "hash": "b9afb40da23b1a79d909e66efa224f17",
+    "mtime": 1762498363.6304746,
+    "size": 13142
+  },
+  "projects/anti-rat-race-ebook/coordination/agent-coordination.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/agent-coordination.md",
+    "hash": "e12d8d31db5032a0ba556b4bcbd397ed",
+    "mtime": 1762612683.1754465,
+    "size": 151097
+  },
+  "projects/anti-rat-race-ebook/coordination/EDITORIAL-FEEDBACK-DECISION-SUMMARY.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/EDITORIAL-FEEDBACK-DECISION-SUMMARY.md",
+    "hash": "31f0bfc6ee5763566d3736a19b1d7cb9",
+    "mtime": 1762498363.6546142,
+    "size": 5907
+  },
+  "projects/anti-rat-race-ebook/coordination/RANDY-STORY-SELLING-FRAMEWORK.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/RANDY-STORY-SELLING-FRAMEWORK.md",
+    "hash": "04655e18673ca13fba99cd4672415dc9",
+    "mtime": 1762498363.6879563,
+    "size": 7908
+  },
+  "projects/anti-rat-race-ebook/coordination/AGENTS-START-HERE.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/coordination/AGENTS-START-HERE.md",
+    "hash": "58b48879f613ad8739baf24be7d98073",
+    "mtime": 1762498363.6411629,
+    "size": 12661
+  },
+  "projects/anti-rat-race-ebook/toc-options/option-2-freedom-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/toc-options/option-2-freedom-framework.md",
+    "hash": "ac21504d49fd22f62432768e03d06cd0",
+    "mtime": 1762987624.2997286,
+    "size": 14266
+  },
+  "projects/anti-rat-race-ebook/toc-options/option-3-manifesto.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/toc-options/option-3-manifesto.md",
+    "hash": "92db4643cbbd415977126d7957295b02",
+    "mtime": 1762498363.8941996,
+    "size": 15805
+  },
+  "projects/anti-rat-race-ebook/toc-options/option-1-transformation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/toc-options/option-1-transformation.md",
+    "hash": "a6c03bc222acd1f340722d922d348ac8",
+    "mtime": 1762498363.883913,
+    "size": 12338
+  },
+  "projects/anti-rat-race-ebook/feedback-reviews/365-SCRIPT-BOARD-EBOOK-ANALYSIS.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/feedback-reviews/365-SCRIPT-BOARD-EBOOK-ANALYSIS.md",
+    "hash": "d2080c7eac55be845152f32bd38d462c",
+    "mtime": 1762612686.7923856,
+    "size": 29257
+  },
+  "projects/anti-rat-race-ebook/feedback-reviews/gemini-board-feedback-2025-11-14.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/feedback-reviews/gemini-board-feedback-2025-11-14.md",
+    "hash": "cf6e2822ebea7fa94c569d012239c894",
+    "mtime": 1763133937.9578273,
+    "size": 16223
+  },
+  "projects/anti-rat-race-ebook/feedback-reviews/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/feedback-reviews/README.md",
+    "hash": "e285dc9287fd21646e28669180242a1f",
+    "mtime": 1763135446.5243695,
+    "size": 2796
+  },
+  "projects/anti-rat-race-ebook/feedback-reviews/claude-comprehensive-review-2025-11-14.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/feedback-reviews/claude-comprehensive-review-2025-11-14.md",
+    "hash": "246c9fbbea77e816523dbe8f53f4a2c8",
+    "mtime": 1763134023.2180922,
+    "size": 10885
+  },
+  "projects/anti-rat-race-ebook/feedback-reviews/EDITORIAL-SUMMARY.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/feedback-reviews/EDITORIAL-SUMMARY.md",
+    "hash": "5d4deccd3a6a1c3d536e68ec2ba5aa2b",
+    "mtime": 1762498363.6089017,
+    "size": 9653
+  },
+  "projects/anti-rat-race-ebook/feedback-reviews/editorial-review-comprehensive.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/feedback-reviews/editorial-review-comprehensive.md",
+    "hash": "6079a2c6ea0638ef9a0ff368cd40e55e",
+    "mtime": 1762498363.7339718,
+    "size": 19591
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/conclusion.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/conclusion.md",
+    "hash": "526a24e8105e0cf5351f575093b872d0",
+    "mtime": 1762987624.299301,
+    "size": 17235
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/outline.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/outline.md",
+    "hash": "bb3197b5f0a7f50075a961a6d0f8b046",
+    "mtime": 1762612683.181918,
+    "size": 20916
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-d-90-day-tracker.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-d-90-day-tracker.md",
+    "hash": "90c12717bbfec903271057a81c57f8d8",
+    "mtime": 1762987624.2982233,
+    "size": 32220
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/chapter-10-maintaining-freedom.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/chapter-10-maintaining-freedom.md",
+    "hash": "4c0c13e504d5c25f0f30b45279696758",
+    "mtime": 1762987624.2984788,
+    "size": 42799
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-b-bce-workbook.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-b-bce-workbook.md",
+    "hash": "94c7231719ef92a9e1205cdfe7ef4212",
+    "mtime": 1762987624.2977858,
+    "size": 46268
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-a-key-person-risk-assessment.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-a-key-person-risk-assessment.md",
+    "hash": "d32bc4d323f58a4dd76c7b910dac5789",
+    "mtime": 1762987624.2975423,
+    "size": 46369
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-c-dont-want-list-mvf-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/appendix-c-dont-want-list-mvf-framework.md",
+    "hash": "9548ca84dc99d7efbb8ad8fd1d8b5003",
+    "mtime": 1762987624.2980182,
+    "size": 40989
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/chapter-9-90-day-escape-plan.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-3-implementation/chapter-9-90-day-escape-plan.md",
+    "hash": "cb8b5af8e4d56d930fcaa91944764b98",
+    "mtime": 1763131170.2557406,
+    "size": 64124
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase3-exit/outline.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase3-exit/outline.md",
+    "hash": "65f0efaa7447240b717c3c975e85619d",
+    "mtime": 1762612683.179054,
+    "size": 12045
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase3-exit/chapter-7-delegation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase3-exit/chapter-7-delegation.md",
+    "hash": "7c51799ba65628bc7f0878a24ac83389",
+    "mtime": 1762987624.296197,
+    "size": 39549
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase3-exit/chapter-8-independence-validation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase3-exit/chapter-8-independence-validation.md",
+    "hash": "d97f9a73aaee29143f2f1d962df307c8",
+    "mtime": 1763131170.250823,
+    "size": 70665
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/chapter-2-draft.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/chapter-2-draft.md",
+    "hash": "609f90079bacf7e41dea84ed050f83d3",
+    "mtime": 1763131170.227853,
+    "size": 38865
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/transformation-pattern-4-multi-location.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/transformation-pattern-4-multi-location.md",
+    "hash": "45a7e7da9f0bf32244fe5f98230d1039",
+    "mtime": 1762612686.794119,
+    "size": 9127
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/outline.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/outline.md",
+    "hash": "aef5f56d4a62789b1b4411c1c469f41b",
+    "mtime": 1762612683.1765318,
+    "size": 10277
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/introduction-VOICE-TRANSFORMED.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/introduction-VOICE-TRANSFORMED.md",
+    "hash": "1bff84188c3916f01e91ce1271bc48e1",
+    "mtime": 1762498363.772825,
+    "size": 25116
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/transformation-patterns-overview-table.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/transformation-patterns-overview-table.md",
+    "hash": "091c177ad8521baf99b967f81aa31162",
+    "mtime": 1762612686.794355,
+    "size": 7406
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/chapter-1-draft.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/chapter-1-draft.md",
+    "hash": "b916c923c1dc601896bcf68e4c35daab",
+    "mtime": 1763131170.2193499,
+    "size": 46710
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/introduction-GENERATIONAL-ESCAPE-ARTIST.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-1-diagnosis/introduction-GENERATIONAL-ESCAPE-ARTIST.md",
+    "hash": "5ada1c51ab03184709b3a5f5dfca5e89",
+    "mtime": 1763054881.3335483,
+    "size": 31806
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/shared-resources/andrew-transformation-metrics.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/shared-resources/andrew-transformation-metrics.md",
+    "hash": "e270711fb33aa2183ad085866937a57f",
+    "mtime": 1762498363.8770084,
+    "size": 10205
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-3-bce-overview.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-3-bce-overview.md",
+    "hash": "9086155331397ec8b1365deceeee8e7c",
+    "mtime": 1763131170.2389987,
+    "size": 24570
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/outline.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/outline.md",
+    "hash": "a4104b9756bbbcab2fb5d8837dd7b678",
+    "mtime": 1762498363.8160777,
+    "size": 31281
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-4-business-clarity-audit.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-4-business-clarity-audit.md",
+    "hash": "82390df475f7915594fc432632621f45",
+    "mtime": 1763131170.2458339,
+    "size": 47537
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-5-founder-time-audit.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-5-founder-time-audit.md",
+    "hash": "eb8af24400599a7cb4e0300dc73598db",
+    "mtime": 1762498363.8028848,
+    "size": 32852
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-6-system-build-automation.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-sections-structure/section-2-bce-phase1-2/chapter-6-system-build-automation.md",
+    "hash": "1134a6f04adb3c0ca05ef7fa9e1a0561",
+    "mtime": 1762612683.1786065,
+    "size": 40166
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-archive/section-1-diagnosis/chapter-1-ORIGINAL-DRAFT.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-archive/section-1-diagnosis/chapter-1-ORIGINAL-DRAFT.md",
+    "hash": "5141e3b51d0b21a3cecdbb1ac86f1df0",
+    "mtime": 1762987624.2944112,
+    "size": 39268
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-archive/section-1-diagnosis/introduction-draft.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-archive/section-1-diagnosis/introduction-draft.md",
+    "hash": "48802888307d21e32d0654c6a1d17e1d",
+    "mtime": 1762987624.2951097,
+    "size": 17342
+  },
+  "projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-archive/section-1-diagnosis/chapter-1-RANDY-VOICE-REWRITE.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/anti-rat-race-ebook/_ARCHIVED-VERSIONS/old-archive/section-1-diagnosis/chapter-1-RANDY-VOICE-REWRITE.md",
+    "hash": "0a85a7ead51787dab6e1f42ed58768fe",
+    "mtime": 1762987624.2949078,
+    "size": 31119
+  },
+  "projects/sleekshop-andrew/context.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/sleekshop-andrew/context.md",
+    "hash": "23aa5225e4e02322c6445ca94679cd5c",
+    "mtime": 1762498363.9621105,
+    "size": 18046
+  },
+  "projects/sleekshop-andrew/CHANGELOG.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/sleekshop-andrew/CHANGELOG.md",
+    "hash": "5b256f8ec37635d5b14791f5d62867b0",
+    "mtime": 1762498363.9582658,
+    "size": 5972
+  },
+  "projects/sleekshop-andrew/ai-inventory-copilot-feature-roadmap.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/sleekshop-andrew/ai-inventory-copilot-feature-roadmap.md",
+    "hash": "b9cd47fab465028ca7cf8d58d77b8b01",
+    "mtime": 1762795174.4027464,
+    "size": 16228
+  },
+  "projects/sleekshop-andrew/purchase-order-sop.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/sleekshop-andrew/purchase-order-sop.md",
+    "hash": "b9d9f6b0e1d447bd80d3d8dd9196f2d2",
+    "mtime": 1762498363.9710138,
+    "size": 11169
+  },
+  "projects/sleekshop-andrew/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/sleekshop-andrew/README.md",
+    "hash": "4a04f557a7d30df80b106cae5d032921",
+    "mtime": 1762705154.2720904,
+    "size": 11465
+  },
+  "projects/sleekshop-andrew/purchasing-hub-ai-copilot.md": {
+    "absolute_path": "../../../Personal/memory-bank/projects/sleekshop-andrew/purchasing-hub-ai-copilot.md",
+    "hash": "eee6b322e0ce2fb450f9794cbad11a06",
+    "mtime": 1762612683.1849277,
+    "size": 30408
+  },
+  "features/machines-to-scale.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/machines-to-scale.md",
+    "hash": "3ad618559b021e2332b270bd7268aa08",
+    "mtime": 1762498363.3553298,
+    "size": 3160
+  },
+  "features/memory-rag/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/implementation.md",
+    "hash": "d550c66a379c5c361d5c2e38ca9bf00c",
+    "mtime": 1762498363.430119,
+    "size": 7652
+  },
+  "features/memory-rag/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/requirements.md",
+    "hash": "73efccf4822e7ed59c243380e0483a44",
+    "mtime": 1762498363.4334722,
+    "size": 3487
+  },
+  "features/memory-rag/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/README.md",
+    "hash": "bc6a350dd3343eac29f67c816b74270c",
+    "mtime": 1762498363.4272947,
+    "size": 2719
+  },
+  "features/memory-rag/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/user-experience.md",
+    "hash": "1e98da5dd9d9f58eb01387595390f464",
+    "mtime": 1762498363.4529712,
+    "size": 4926
+  },
+  "features/memory-rag/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/technical-design.md",
+    "hash": "4101908ed4c1419b2fbb193061e739e3",
+    "mtime": 1762498363.444958,
+    "size": 11572
+  },
+  "features/memory-rag/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/testing-strategy.md",
+    "hash": "724c2bfaa98ddc1f39937eb79a9126c2",
+    "mtime": 1762498363.4480128,
+    "size": 8193
+  },
+  "features/memory-rag/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/memory-rag/decisions.md",
+    "hash": "2139f937b2d760572a2764a4c7c47fea",
+    "mtime": 1762498363.4285917,
+    "size": 6392
+  },
+  "features/365-video-content/modular-system-migration-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/modular-system-migration-guide.md",
+    "hash": "8d30564ab5135c968a4c5c1c1be097fe",
+    "mtime": 1762498363.0094159,
+    "size": 11309
+  },
+  "features/365-video-content/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/requirements.md",
+    "hash": "862cffbca0adc8527e37ecfc3b733f9e",
+    "mtime": 1762498363.1258557,
+    "size": 18730
+  },
+  "features/365-video-content/ai-leverage-content-strategy-ARCHIVE-NOTE.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/ai-leverage-content-strategy-ARCHIVE-NOTE.md",
+    "hash": "28cda7896ed7d911900d52fed14fadb8",
+    "mtime": 1762498362.9092512,
+    "size": 3087
+  },
+  "features/365-video-content/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/README.md",
+    "hash": "df5ae6ff1d3c82339508379aa2c794e3",
+    "mtime": 1762498362.9079568,
+    "size": 13960
+  },
+  "features/365-video-content/execution-guidance.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/execution-guidance.md",
+    "hash": "dec36718a302617ab193f9053e328831",
+    "mtime": 1762498362.9397357,
+    "size": 3497
+  },
+  "features/365-video-content/ai-leverage-content-strategy-ARCHIVED-fake-proof.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/ai-leverage-content-strategy-ARCHIVED-fake-proof.md",
+    "hash": "8477339fe416a48b3b48fe316fb96dbe",
+    "mtime": 1762498362.9122424,
+    "size": 50120
+  },
+  "features/365-video-content/gemini-video-review-prompt.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/365-video-content/gemini-video-review-prompt.md",
+    "hash": "245ec486bae39bb1760480471e583c87",
+    "mtime": 1762498363.006651,
+    "size": 28215
+  },
+  "features/ai-label-automation/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/ai-label-automation/implementation.md",
+    "hash": "95d6dba7ed923ad4927a94399a054454",
+    "mtime": 1762498363.204733,
+    "size": 18246
+  },
+  "features/ai-label-automation/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/ai-label-automation/requirements.md",
+    "hash": "39ecd373ecbbd93137194f756f5df489",
+    "mtime": 1762498363.2167637,
+    "size": 6262
+  },
+  "features/ai-label-automation/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/ai-label-automation/README.md",
+    "hash": "be0a348422523512dbc0475668dadae5",
+    "mtime": 1762498363.160718,
+    "size": 2695
+  },
+  "features/ai-label-automation/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/ai-label-automation/technical-design.md",
+    "hash": "097dd03bccbdb5266b5e1a545c0dc729",
+    "mtime": 1762498363.220248,
+    "size": 13830
+  },
+  "features/ai-label-automation/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/ai-label-automation/testing-strategy.md",
+    "hash": "ca48088bff3369b30846b2476ff264e5",
+    "mtime": 1762498363.225444,
+    "size": 15797
+  },
+  "features/content-analytics-integration/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/content-analytics-integration/implementation.md",
+    "hash": "6d881c051767be899a513ede7e9ca127",
+    "mtime": 1762612686.789747,
+    "size": 15471
+  },
+  "features/content-analytics-integration/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/content-analytics-integration/requirements.md",
+    "hash": "bfd86f807aeca3915c26bfc7458fff0c",
+    "mtime": 1762612686.7899761,
+    "size": 6605
+  },
+  "features/content-analytics-integration/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/content-analytics-integration/README.md",
+    "hash": "730a9fc9bf68cca90b247dcc0c2da749",
+    "mtime": 1762705154.2705996,
+    "size": 3984
+  },
+  "features/content-analytics-integration/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/content-analytics-integration/technical-design.md",
+    "hash": "16eefa918414813dbbfd9aedfe72bcbc",
+    "mtime": 1762612686.7902381,
+    "size": 13828
+  },
+  "features/mbie-decision-clone/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-decision-clone/README.md",
+    "hash": "21aba0fc131d40df1ff66ae7c64274ea",
+    "mtime": 1762498363.387699,
+    "size": 2145
+  },
+  "features/mbie-decision-clone/user-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-decision-clone/user-guide.md",
+    "hash": "0add48127d145a98715059953930054a",
+    "mtime": 1762498363.3963275,
+    "size": 15818
+  },
+  "features/video-planning/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/video-planning/README.md",
+    "hash": "1e1cdb8c05f03b247297767af603c884",
+    "mtime": 1762498363.525991,
+    "size": 561
+  },
+  "features/video-planning/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/video-planning/user-experience.md",
+    "hash": "d2f764550d588b76feb35c87f926762e",
+    "mtime": 1762498363.5309176,
+    "size": 5244
+  },
+  "features/video-planning/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/video-planning/technical-design.md",
+    "hash": "6b5b086dd1442fc815ec803660009ac6",
+    "mtime": 1762498363.5271266,
+    "size": 3273
+  },
+  "features/story-bank/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/story-bank/requirements.md",
+    "hash": "3e5ae4e91b03eb19e8f88794647fba85",
+    "mtime": 1762498363.5249302,
+    "size": 41402
+  },
+  "features/claude-dispatch-self-hosted/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/claude-dispatch-self-hosted/implementation.md",
+    "hash": "956acb68b28d582d81cf23d879ca6dc0",
+    "mtime": 1762498363.2525334,
+    "size": 15725
+  },
+  "features/claude-dispatch-self-hosted/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/claude-dispatch-self-hosted/requirements.md",
+    "hash": "02e3e1bdf6a279c47046bd176c4b8912",
+    "mtime": 1762498363.2530415,
+    "size": 3739
+  },
+  "features/claude-dispatch-self-hosted/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/claude-dispatch-self-hosted/README.md",
+    "hash": "d064c9c4c8c4751c8b2e3df4f84cb415",
+    "mtime": 1762498363.2508929,
+    "size": 1766
+  },
+  "features/claude-dispatch-self-hosted/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/claude-dispatch-self-hosted/user-experience.md",
+    "hash": "0098fa1e4bbb4beab8d79a4f61ea8d97",
+    "mtime": 1762498363.2546897,
+    "size": 5029
+  },
+  "features/claude-dispatch-self-hosted/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/claude-dispatch-self-hosted/technical-design.md",
+    "hash": "cb513685c6288c848f606bbb6c345934",
+    "mtime": 1762498363.2533016,
+    "size": 7825
+  },
+  "features/claude-dispatch-self-hosted/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/claude-dispatch-self-hosted/testing-strategy.md",
+    "hash": "18e9890d00f9b81ccf353e6c047c7653",
+    "mtime": 1762498363.2544806,
+    "size": 8970
+  },
+  "features/project-management-board/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/implementation.md",
+    "hash": "7c6fe88350479f95886202f9ad1e42b7",
+    "mtime": 1762498363.5101423,
+    "size": 13090
+  },
+  "features/project-management-board/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/requirements.md",
+    "hash": "5a3e38d850fcc1c2a29543de5ffbe34a",
+    "mtime": 1762498363.5130432,
+    "size": 7385
+  },
+  "features/project-management-board/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/README.md",
+    "hash": "b4b44ea8fcdfaf5604ca618539018afc",
+    "mtime": 1762498363.5086377,
+    "size": 5303
+  },
+  "features/project-management-board/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/user-experience.md",
+    "hash": "16383c77ee4364db0e3ad35cbd73019b",
+    "mtime": 1762498363.5171735,
+    "size": 8873
+  },
+  "features/project-management-board/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/technical-design.md",
+    "hash": "53d11adbc4dc0798ede7333d698482d8",
+    "mtime": 1762498363.5160232,
+    "size": 15050
+  },
+  "features/project-management-board/content-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/content-strategy.md",
+    "hash": "8f873891e0063e6c7e1f89fcc9f3b2bb",
+    "mtime": 1762498363.5093846,
+    "size": 3772
+  },
+  "features/project-management-board/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/testing-strategy.md",
+    "hash": "11d11025c969e01233083fcc423ac6de",
+    "mtime": 1762498363.5164182,
+    "size": 5159
+  },
+  "features/project-management-board/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/project-management-board/decisions.md",
+    "hash": "1c7c69e35b6e0539577bafbf82aaa037",
+    "mtime": 1762498363.5097532,
+    "size": 6778
+  },
+  "features/cms-infrastructure/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/cms-infrastructure/README.md",
+    "hash": "907e25fc34067b78c7fdd6128cab22bc",
+    "mtime": 1762731331.7413075,
+    "size": 7289
+  },
+  "features/mbie-auto-indexing/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-auto-indexing/implementation.md",
+    "hash": "12d4af1070f042f6cae3c121ed425891",
+    "mtime": 1762498363.3558693,
+    "size": 2413
+  },
+  "features/mbie-auto-indexing/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-auto-indexing/requirements.md",
+    "hash": "5f2f59a4ff1c967dced9837df8001eec",
+    "mtime": 1762498363.3561234,
+    "size": 8243
+  },
+  "features/mbie-auto-indexing/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-auto-indexing/README.md",
+    "hash": "f9a839e6b904379e0cb91943c8dbcdd4",
+    "mtime": 1762498363.3556046,
+    "size": 3663
+  },
+  "features/mbie-auto-indexing/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-auto-indexing/technical-design.md",
+    "hash": "eae2b07b0f321ccfbd600e365bb543a1",
+    "mtime": 1762498363.3570051,
+    "size": 5086
+  },
+  "features/github-actions-self-hosted/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/github-actions-self-hosted/requirements.md",
+    "hash": "bd2f8aec228cd49a984e161419903331",
+    "mtime": 1762498363.3517811,
+    "size": 6012
+  },
+  "features/github-actions-self-hosted/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/github-actions-self-hosted/README.md",
+    "hash": "7e6326cc54b8c26682f992027f776375",
+    "mtime": 1762498363.3448322,
+    "size": 3674
+  },
+  "features/github-actions-self-hosted/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/github-actions-self-hosted/user-experience.md",
+    "hash": "cdf3b00ee6c249509a559f6acf4139ef",
+    "mtime": 1762498363.3532898,
+    "size": 7630
+  },
+  "features/github-actions-self-hosted/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/github-actions-self-hosted/technical-design.md",
+    "hash": "b89bdb15f6cdbebc81c6c5b501f9d402",
+    "mtime": 1762498363.352357,
+    "size": 10628
+  },
+  "features/github-actions-self-hosted/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/github-actions-self-hosted/decisions.md",
+    "hash": "000d1f91d4a37f403265d8cd57246fed",
+    "mtime": 1762498363.3456972,
+    "size": 9182
+  },
+  "features/automation-suite/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/implementation.md",
+    "hash": "a02275017743f8692eb7bd6f3921f76f",
+    "mtime": 1762498363.2358806,
+    "size": 33399
+  },
+  "features/automation-suite/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/requirements.md",
+    "hash": "daa832e8e5ec638d16d22d813263d6b5",
+    "mtime": 1762498363.2388842,
+    "size": 5783
+  },
+  "features/automation-suite/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/README.md",
+    "hash": "d80da655f716f484b39ad031200ef78f",
+    "mtime": 1762498363.2295125,
+    "size": 2013
+  },
+  "features/automation-suite/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/user-experience.md",
+    "hash": "3e131eee45f28008f3d0429841a89f42",
+    "mtime": 1762498363.2451255,
+    "size": 8190
+  },
+  "features/automation-suite/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/technical-design.md",
+    "hash": "deae585b6041573bbab17944431eaa32",
+    "mtime": 1762498363.240649,
+    "size": 15213
+  },
+  "features/automation-suite/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/testing-strategy.md",
+    "hash": "655900872bb827767c13cbeb3000c36e",
+    "mtime": 1762498363.2444725,
+    "size": 25850
+  },
+  "features/automation-suite/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/automation-suite/decisions.md",
+    "hash": "711ccf1e53b1ef849e383fad6d8bfd9c",
+    "mtime": 1762498363.2322967,
+    "size": 10426
+  },
+  "features/garmin-health-integration/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/garmin-health-integration/implementation.md",
+    "hash": "11fd3615d9f403e5dde3dfb1a7360dfc",
+    "mtime": 1762987624.2912524,
+    "size": 8574
+  },
+  "features/garmin-health-integration/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/garmin-health-integration/README.md",
+    "hash": "9114d7b81ff295461bcc6c11de1ca2f4",
+    "mtime": 1762987624.2909257,
+    "size": 5549
+  },
+  "features/garmin-health-integration/performance-metrics.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/garmin-health-integration/performance-metrics.md",
+    "hash": "325d0de75651ede64f3c95a077e699a7",
+    "mtime": 1762987624.2926636,
+    "size": 7816
+  },
+  "features/garmin-health-integration/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/garmin-health-integration/technical-design.md",
+    "hash": "42ab83f27e01d8f5caf871995c927247",
+    "mtime": 1762987624.2930174,
+    "size": 13972
+  },
+  "features/daily-metrics-automation/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/implementation.md",
+    "hash": "2c9e36723d2af45da33fc45566659a9f",
+    "mtime": 1762498363.310477,
+    "size": 40735
+  },
+  "features/daily-metrics-automation/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/requirements.md",
+    "hash": "5ea28460cd7295e29398e515af6c1e95",
+    "mtime": 1762498363.3164067,
+    "size": 7788
+  },
+  "features/daily-metrics-automation/delegate-va-utilization.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/delegate-va-utilization.md",
+    "hash": "cb7861877f4ef3ac7351f9151f42355c",
+    "mtime": 1762498363.3057766,
+    "size": 5842
+  },
+  "features/daily-metrics-automation/mrr-breakdown.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/mrr-breakdown.md",
+    "hash": "45190628f6781d7668513ff1674fa761",
+    "mtime": 1762498363.31236,
+    "size": 4773
+  },
+  "features/daily-metrics-automation/personal-business-separation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/personal-business-separation.md",
+    "hash": "c79b0af51c013f7668d4244725dc4a7e",
+    "mtime": 1762498363.3143945,
+    "size": 4724
+  },
+  "features/daily-metrics-automation/time-tracking-allocation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/time-tracking-allocation.md",
+    "hash": "057d95ba815ea0c1b094363502467418",
+    "mtime": 1762498363.3218088,
+    "size": 5774
+  },
+  "features/daily-metrics-automation/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/README.md",
+    "hash": "99a04eaefed4f915b164cf6dd763fb35",
+    "mtime": 1762498363.293049,
+    "size": 7013
+  },
+  "features/daily-metrics-automation/user-experience.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/user-experience.md",
+    "hash": "d486bf401e6ebc81290ca7f85fb060a7",
+    "mtime": 1762498363.3426788,
+    "size": 10893
+  },
+  "features/daily-metrics-automation/client-pipeline-sales.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/client-pipeline-sales.md",
+    "hash": "df178c3f292248aef4d16a2599e7529e",
+    "mtime": 1762498363.295013,
+    "size": 4440
+  },
+  "features/daily-metrics-automation/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/technical-design.md",
+    "hash": "c2983787d75d10087d0c61a084645305",
+    "mtime": 1762498363.3191702,
+    "size": 27148
+  },
+  "features/daily-metrics-automation/testing-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/testing-strategy.md",
+    "hash": "0f09bc7deed2364ba308b67ba6c68511",
+    "mtime": 1762498363.3207817,
+    "size": 21105
+  },
+  "features/daily-metrics-automation/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/daily-metrics-automation/decisions.md",
+    "hash": "3b1668397f3294a994891cfd94419c0f",
+    "mtime": 1762498363.2980309,
+    "size": 12634
+  },
+  "features/cms-blog-infrastructure/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/cms-blog-infrastructure/README.md",
+    "hash": "c7a984aa749c20ee9a0189c3330cc950",
+    "mtime": 1762731331.7410986,
+    "size": 5800
+  },
+  "features/content-engine/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/content-engine/README.md",
+    "hash": "c765a05e1572d07d9fc1d1edb496d5e0",
+    "mtime": 1762987624.2899132,
+    "size": 13003
+  },
+  "features/content-engine/user-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/content-engine/user-guide.md",
+    "hash": "b67c88d979d6347b3070dec855846496",
+    "mtime": 1762987624.2904353,
+    "size": 44830
+  },
+  "features/mbie-intelligence/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/implementation.md",
+    "hash": "3b3cd1aa3db53820ed5e6506cea79f6d",
+    "mtime": 1762498363.4131207,
+    "size": 15483
+  },
+  "features/mbie-intelligence/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/requirements.md",
+    "hash": "2aa86559eba87f91135da7cdd36dd010",
+    "mtime": 1762498363.4220333,
+    "size": 10632
+  },
+  "features/mbie-intelligence/learnings-principles.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/learnings-principles.md",
+    "hash": "097c1dc438b60a2e5d27bd179cb4f117",
+    "mtime": 1762498363.4147458,
+    "size": 4895
+  },
+  "features/mbie-intelligence/phase2-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/phase2-design.md",
+    "hash": "f0607951bec436fa75d251fe6052ccd2",
+    "mtime": 1762498363.4193263,
+    "size": 18769
+  },
+  "features/mbie-intelligence/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/README.md",
+    "hash": "62f89d3d8e6bcf69d88b37ae95e1efed",
+    "mtime": 1762498363.398248,
+    "size": 8179
+  },
+  "features/mbie-intelligence/global-cli.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/global-cli.md",
+    "hash": "befc28eab03a971f7a497b6cccbed6b0",
+    "mtime": 1762498363.4114952,
+    "size": 651
+  },
+  "features/mbie-intelligence/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/technical-design.md",
+    "hash": "1c12c3d9cffcdf965744e1674cb26899",
+    "mtime": 1762498363.4257476,
+    "size": 19729
+  },
+  "features/mbie-intelligence/adaptive-learning-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/adaptive-learning-design.md",
+    "hash": "0725c6c8d67a295400f33e569e79307f",
+    "mtime": 1762498363.4040542,
+    "size": 24960
+  },
+  "features/mbie-intelligence/decisions.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-intelligence/decisions.md",
+    "hash": "ac05f407bf4cf30698610a4f55f59ed9",
+    "mtime": 1762498363.4072306,
+    "size": 10110
+  },
+  "features/mbie-automated-learning/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-automated-learning/implementation.md",
+    "hash": "11842b184bc2243e6c6519b35ce2fc29",
+    "mtime": 1762498363.3634064,
+    "size": 16000
+  },
+  "features/mbie-automated-learning/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-automated-learning/requirements.md",
+    "hash": "96457c75bd9ac7c4c42fc17ebfdc2495",
+    "mtime": 1762498363.3667598,
+    "size": 7721
+  },
+  "features/mbie-automated-learning/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mbie-automated-learning/README.md",
+    "hash": "8d02641a7fe2ab6e16b0f229ba9c4e0e",
+    "mtime": 1762498363.3596535,
+    "size": 5885
+  },
+  "features/notion-markdown-sync/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/notion-markdown-sync/README.md",
+    "hash": "ff8edcfedc34ee01a16f1e9b0f1e6647",
+    "mtime": 1762498363.486414,
+    "size": 12629
+  },
+  "features/notion-mbie-sync/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/notion-mbie-sync/implementation.md",
+    "hash": "79fc78961f8689237003e23bf118b03e",
+    "mtime": 1762498363.49573,
+    "size": 16659
+  },
+  "features/notion-mbie-sync/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/notion-mbie-sync/requirements.md",
+    "hash": "186ee2321fb428bcd2981c937af13893",
+    "mtime": 1762498363.5021236,
+    "size": 4455
+  },
+  "features/notion-mbie-sync/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/notion-mbie-sync/README.md",
+    "hash": "ad00f838669007e4b52d1abb93dc68ee",
+    "mtime": 1762498363.4890828,
+    "size": 2468
+  },
+  "features/notion-mbie-sync/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/notion-mbie-sync/technical-design.md",
+    "hash": "843d3149f06f5ee11dc18c3e4cacf921",
+    "mtime": 1762498363.5075412,
+    "size": 12273
+  },
+  "features/ceo-operating-rhythm/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/ceo-operating-rhythm/README.md",
+    "hash": "690d5f395decf686bf5ba7b671cce8c5",
+    "mtime": 1762498363.2486267,
+    "size": 1284
+  },
+  "features/mvs-framework/implementation.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mvs-framework/implementation.md",
+    "hash": "0f96d3228dcd21e1a920bf5b21aa5a44",
+    "mtime": 1762612686.790716,
+    "size": 9393
+  },
+  "features/mvs-framework/requirements.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mvs-framework/requirements.md",
+    "hash": "2afb426a1022bd49eb32bbbb2dd08f70",
+    "mtime": 1762612686.79096,
+    "size": 6925
+  },
+  "features/mvs-framework/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mvs-framework/README.md",
+    "hash": "0d0edf6a57a80caeeddcb2521cd78e2a",
+    "mtime": 1762612686.7904737,
+    "size": 5057
+  },
+  "features/mvs-framework/technical-design.md": {
+    "absolute_path": "../../../Personal/memory-bank/features/mvs-framework/technical-design.md",
+    "hash": "b64ded4cd7ba2fffaf161f2f08eae039",
+    "mtime": 1762612686.7912097,
+    "size": 11178
+  },
+  "testing/authentication-testing-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/testing/authentication-testing-guide.md",
+    "hash": "dfc54559a39ea543c7a75eb25a21f8bf",
+    "mtime": 1762498364.0826213,
+    "size": 5308
+  },
+  "guides/memory-bank-rules.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/memory-bank-rules.md",
+    "hash": "0879bb9774a6488e79c1480e0f346ce9",
+    "mtime": 1762795174.4020576,
+    "size": 20862
+  },
+  "guides/reply-prompt.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/reply-prompt.md",
+    "hash": "e73d7a0b17b10b93a33f220683be5078",
+    "mtime": 1762498363.547836,
+    "size": 11978
+  },
+  "guides/executive-summaries.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/executive-summaries.md",
+    "hash": "3a769afd71d649a4e5e691b3b6337583",
+    "mtime": 1762498363.5361178,
+    "size": 9130
+  },
+  "guides/automation-opportunities.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/automation-opportunities.md",
+    "hash": "c15a2a35f175615b2ff32607de6f3772",
+    "mtime": 1762498363.5324454,
+    "size": 10193
+  },
+  "guides/documentation-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/documentation-framework.md",
+    "hash": "bf9bfecef108ea7c6c8e76419f53afaa",
+    "mtime": 1762795174.4015334,
+    "size": 18090
+  },
+  "guides/subagent-improvement-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/subagent-improvement-guide.md",
+    "hash": "cfd24b39df62b4b8f1f67bdd1f75489a",
+    "mtime": 1762498363.5486526,
+    "size": 3411
+  },
+  "guides/github-workflow-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/github-workflow-guide.md",
+    "hash": "d2165057f82c9943a5644119c8c9d018",
+    "mtime": 1762498363.5370944,
+    "size": 5640
+  },
+  "guides/mbie-laptop-installation-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/guides/mbie-laptop-installation-guide.md",
+    "hash": "12a6828fbb83c2e4af7200cde1bdcd3c",
+    "mtime": 1762498363.5394516,
+    "size": 7092
+  },
+  "infrastructure/github-actions-runners.md": {
+    "absolute_path": "../../../Personal/memory-bank/infrastructure/github-actions-runners.md",
+    "hash": "b4a837f6590caba973de39bb9627d861",
+    "mtime": 1762612686.7914605,
+    "size": 4916
+  },
+  "strategy/team-lift-os-playbook.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/team-lift-os-playbook.md",
+    "hash": "41a2b75cc4376fd32e96e6df2f20a011",
+    "mtime": 1762543979.6893508,
+    "size": 17879
+  },
+  "strategy/personal-philosophy.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/personal-philosophy.md",
+    "hash": "2dfd2d81312d703d0f16dd48c77c55b4",
+    "mtime": 1762498364.0549312,
+    "size": 16165
+  },
+  "strategy/randy-superpowers-complete-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/randy-superpowers-complete-framework.md",
+    "hash": "1f31e570486cb28f9fde9ba5a540b6a4",
+    "mtime": 1762795174.405558,
+    "size": 17617
+  },
+  "strategy/ip-framework-complete.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/ip-framework-complete.md",
+    "hash": "aeed2869c93f1996375ca75830c45ff9",
+    "mtime": 1762612683.1871798,
+    "size": 7822
+  },
+  "strategy/brand-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/brand-guide.md",
+    "hash": "b040560413190d329f8e6fd5d6e6505f",
+    "mtime": 1762795174.4038773,
+    "size": 35016
+  },
+  "strategy/daily-video-playbook.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/daily-video-playbook.md",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "mtime": 1762498364.031057,
+    "size": 0
+  },
+  "strategy/grove-dalio-gap-analysis.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/grove-dalio-gap-analysis.md",
+    "hash": "c106874bc4c853590f16664bc409d6ed",
+    "mtime": 1762498364.0380292,
+    "size": 41777
+  },
+  "strategy/README.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/README.md",
+    "hash": "5380d96a9ccee6ecd4fccf5ba43c4548",
+    "mtime": 1762795174.4036288,
+    "size": 3724
+  },
+  "strategy/content-marketing-campaigns.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/content-marketing-campaigns.md",
+    "hash": "8b28723a3f12fa0facfd09765ee5ea96",
+    "mtime": 1762795174.4042692,
+    "size": 5996
+  },
+  "strategy/andrew-sprint-success.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/andrew-sprint-success.md",
+    "hash": "6941cd044a3f9c9f1b9faaa16dae2ba9",
+    "mtime": 1762498364.0066245,
+    "size": 6529
+  },
+  "strategy/business-messaging-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/business-messaging-framework.md",
+    "hash": "50a08a5d842aaecdbcd2779bba2149d0",
+    "mtime": 1762795174.4040935,
+    "size": 12235
+  },
+  "strategy/DOCUMENT-UPDATE-STRATEGY-PAYPAL-SUPERPOWERS.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/DOCUMENT-UPDATE-STRATEGY-PAYPAL-SUPERPOWERS.md",
+    "hash": "b5f47f6943318ffd541dba416505b4ca",
+    "mtime": 1762795174.4031997,
+    "size": 22088
+  },
+  "strategy/video-case-study-strategy.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/video-case-study-strategy.md",
+    "hash": "00c60c14efad538ad80e61d0cb676f97",
+    "mtime": 1762498364.0612035,
+    "size": 7842
+  },
+  "strategy/core-frameworks.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/core-frameworks.md",
+    "hash": "fbc5f4d2a203310fcd321519ca848973",
+    "mtime": 1762612683.1866724,
+    "size": 20103
+  },
+  "strategy/randy-complete-style-guide.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/randy-complete-style-guide.md",
+    "hash": "c41a8e7a2bb11f5cc17c2fc3d74d3bab",
+    "mtime": 1762795174.4053555,
+    "size": 39705
+  },
+  "strategy/buyback-time-framework.md": {
+    "absolute_path": "../../../Personal/memory-bank/strategy/buyback-time-framework.md",
+    "hash": "69e39ad93fb4e51089e4fe8c6dff2962",
+    "mtime": 1762498364.023037,
+    "size": 5380
+  },
+  "external/Team Lift LLC - Consulting OS/The Systemization Roadmap - 8 Machines Stack Rank.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/The Systemization Roadmap - 8 Machines Stack Rank.md",
+    "hash": "0aef93fe324bda223d6c7a1fa9cb0ad6",
+    "mtime": 1762498346.1369162,
+    "size": 13603
+  },
+  "external/Team Lift LLC - Consulting OS/3d. Product & IP OS/Acenda Freedom Plan/methodology-changelog.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3d. Product & IP OS/Acenda Freedom Plan/methodology-changelog.md",
+    "hash": "62c7dbb94f9cc06aad472d14174ace7c",
+    "mtime": 1762498346.133346,
+    "size": 6696
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3d. Product & IP OS/MBIE Deployment & Operations Playbook.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3d. Product & IP OS/MBIE Deployment & Operations Playbook.md",
+    "hash": "64ca6321821d597da4ff8d894b8b28c1",
+    "mtime": 1762498346.1034775,
+    "size": 3330
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3d. Product & IP OS/The Agent ERP Architectural Playbook v1.0.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3d. Product & IP OS/The Agent ERP Architectural Playbook v1.0.md",
+    "hash": "51f3f5d0d12b7b5e7dce92160eeb75ce",
+    "mtime": 1762498346.1238914,
+    "size": 2368
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3d. Product & IP OS/MBIE: Competitive Strategy & Product Roadmap.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3d. Product & IP OS/MBIE: Competitive Strategy & Product Roadmap.md",
+    "hash": "79afcfe3f9e90de07b94b712338c0604",
+    "mtime": 1762498346.1101737,
+    "size": 4204
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3e. Playbook Evolution OS/The Playbook Evolution Playbook.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3e. Playbook Evolution OS/The Playbook Evolution Playbook.md",
+    "hash": "aa6732b0b3435c440677c907848b8db9",
+    "mtime": 1762498346.1306489,
+    "size": 25081
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. Hiring OS/Hiring Playbook The A-Player Content Multiplier.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. Hiring OS/Hiring Playbook The A-Player Content Multiplier.md",
+    "hash": "c5897c6281275d90a719f8d9f8d9265d",
+    "mtime": 1762498346.0850985,
+    "size": 5047
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. Hiring OS/Content Repurposing Specialist - Job Description & Workflow.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. Hiring OS/Content Repurposing Specialist - Job Description & Workflow.md",
+    "hash": "a3efc289e2ae97eba69bef9a4866ce89",
+    "mtime": 1762498346.0824401,
+    "size": 8343
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Client Offboarding Checklist.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Client Offboarding Checklist.md",
+    "hash": "1cf206af883df8a78c97e37764b9a26e",
+    "mtime": 1762498346.0579028,
+    "size": 1937
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Client Communication Playbook v1.0.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Client Communication Playbook v1.0.md",
+    "hash": "890f03fffd644938468065a1567bd0d8",
+    "mtime": 1762498346.047131,
+    "size": 4957
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The On-Site Execution Playbook.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The On-Site Execution Playbook.md",
+    "hash": "e89865fcf82310d80def6bd7c6847177",
+    "mtime": 1762498346.0642574,
+    "size": 860
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Remote Proof Caputre Playbook.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Remote Proof Caputre Playbook.md",
+    "hash": "f6bb2fd558215ba1ae908e2ef91812a4",
+    "mtime": 1762498346.0738351,
+    "size": 9242
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Weekly Progress Report Template.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3a. Client Delivery OS/The Weekly Progress Report Template.md",
+    "hash": "d33b1b0eae2b0f95f79a015e2b9a817a",
+    "mtime": 1762498346.075426,
+    "size": 1288
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/sop-from-overage-guide.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/sop-from-overage-guide.md",
+    "hash": "17523dab7967719f197c1be8003582e3",
+    "mtime": 1762498346.0980175,
+    "size": 6208
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/r&d-ledger-template.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/r&d-ledger-template.md",
+    "hash": "948b1d5eb8e0b577d2f33a96a9d7d2de",
+    "mtime": 1762498346.0971634,
+    "size": 4289
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/README.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/README.md",
+    "hash": "4534281ec14a10c3b5a78db344108ece",
+    "mtime": 1762498346.0917995,
+    "size": 6981
+  },
+  "external/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/hard-cap-weekly-review.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/3. INTERNAL SYSTEMS (Playbooks)/3b. R&D Ledger/hard-cap-weekly-review.md",
+    "hash": "f922124af1cad23d49532b355a02fe90",
+    "mtime": 1762498346.093254,
+    "size": 7547
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/SleekShop 90-Day Sprint - Work Breakdown Structure.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/SleekShop 90-Day Sprint - Work Breakdown Structure.md",
+    "hash": "1a10bfced98de9fbb56ca6fa2a90fb38",
+    "mtime": 1760467674.8741076,
+    "size": 33163
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/TheFeed.com-Business-Analysis.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/TheFeed.com-Business-Analysis.md",
+    "hash": "43b583e2ae9fd9ba74f846733c49dd37",
+    "mtime": 1760467674.8335605,
+    "size": 15533
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/90-Day-Implementation-Roadmap.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/90-Day-Implementation-Roadmap.md",
+    "hash": "ea62fc051d6dd6951a95a14fe2315bf9",
+    "mtime": 1760467674.8369064,
+    "size": 20098
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/SleekShop-Growth-Tests.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/SleekShop-Growth-Tests.md",
+    "hash": "5b172ac7a89cd0b62832af1f08ff9ac9",
+    "mtime": 1760467674.8405306,
+    "size": 39254
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/TheFeed-Growth-Strategy-Analysis.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/TheFeed-Growth-Strategy-Analysis.md",
+    "hash": "b92b895c490ceb3f29190ebf30274e01",
+    "mtime": 1760467674.844302,
+    "size": 32034
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/Executive-Summary.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/Growth Research/Executive-Summary.md",
+    "hash": "f6b041fa10afac3e71db97dec8d3f9a2",
+    "mtime": 1760467674.84798,
+    "size": 16701
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/The On-Site Execution Playbook The Final Script.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/The On-Site Execution Playbook The Final Script.md",
+    "hash": "a901959d66fcf315a25882cb4f50f1a4",
+    "mtime": 1760467674.8511705,
+    "size": 7415
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/Sleek Filming Pitch.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/Sleek Filming Pitch.md",
+    "hash": "063da2656cc85627112dbd0fda4eec56",
+    "mtime": 1760467674.8543038,
+    "size": 2487
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/SleekShop On-Site Execution Playbook.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/SleekShop On-Site Execution Playbook.md",
+    "hash": "1ff87be447c2ef9e5607e471c9acaf3c",
+    "mtime": 1760467674.8574712,
+    "size": 10731
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/SleekShop Engagement Pre-Sprint Strategic Briefing.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/SleekShop Engagement Pre-Sprint Strategic Briefing.md",
+    "hash": "be6d5a6945ce7b81e17fcbab932933fe",
+    "mtime": 1760467674.8607302,
+    "size": 10756
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/Filming Plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/Filming Plan.md",
+    "hash": "88eed01e6c176f005c23371292d06656",
+    "mtime": 1760467674.863891,
+    "size": 4610
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/SleekShop The First WOW Transformation Plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/SleekShop The First WOW Transformation Plan.md",
+    "hash": "d7016a4176505e8bada5ab93ce488710",
+    "mtime": 1760467674.8672066,
+    "size": 15711
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/Sleekshop Purchase Order Discovery.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/1. Discovery & Planning/Sleekshop Purchase Order Discovery.md",
+    "hash": "987ffa19c110be3520944f20e3db227a",
+    "mtime": 1760467674.8703995,
+    "size": 11244
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/0. Contracts & Proposals/SOW-Deliverables-Tracker.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/SleekShop (Andrew Ngo)/0. Contracts & Proposals/SOW-Deliverables-Tracker.md",
+    "hash": "ed45c923749fcdd1a1ecb5984c5259e6",
+    "mtime": 1760467674.8774261,
+    "size": 12123
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/ANNEES Proposal.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/ANNEES Proposal.md",
+    "hash": "425dfb67f7e178f54c0d54e4ef098f07",
+    "mtime": 1760576377.3387482,
+    "size": 3670
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/README.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/README.md",
+    "hash": "993e41e0f4060cda4366a3e052aa48f7",
+    "mtime": 1762375074.5702271,
+    "size": 9711
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/Business Analysis & Transformation Opportunities.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/Business Analysis & Transformation Opportunities.md",
+    "hash": "f7f134b0fa869a536f43fcffe9b1c034",
+    "mtime": 1760467674.887119,
+    "size": 12460
+  },
+  "external/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/Proposal Case Study - V2.0 Evolution.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/2. CLIENTS/ANNEES (Annie)/Proposal Case Study - V2.0 Evolution.md",
+    "hash": "f3769009a2d02436c61d6a056bd156ea",
+    "mtime": 1760467674.890769,
+    "size": 18082
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/The \"Touchdown Execution\" Playbook.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/The \"Touchdown Execution\" Playbook.md",
+    "hash": "30390a4f9979849f16af58bf678a0697",
+    "mtime": 1762498345.9470885,
+    "size": 2282
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/Proof Capture Production OS.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/Proof Capture Production OS.md",
+    "hash": "68aa3052bc946af0c910cb72f7501dd4",
+    "mtime": 1762498345.9341223,
+    "size": 8097
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/Content Strategy & Roadmap (Top Down).md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/Content Strategy & Roadmap (Top Down).md",
+    "hash": "b492d74c3833d1f061712b78b37143f7",
+    "mtime": 1762498345.926239,
+    "size": 4621
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/The Complete Playbook (Bottoms Up).md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/The Complete Playbook (Bottoms Up).md",
+    "hash": "401fba6c1022ce8053996b8611cb4cb9",
+    "mtime": 1762498345.952648,
+    "size": 5051
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/Content Campaign Brief & Production OS.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1b. Content Engine/Content Campaign Brief & Production OS.md",
+    "hash": "dfceb156785e7eb25ce6be36b4c85a94",
+    "mtime": 1762498345.9190185,
+    "size": 4149
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1a. Brand & Strategy/Origin Story & Pitches.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1a. Brand & Strategy/Origin Story & Pitches.md",
+    "hash": "4100d14064de2da52b3a32842bb2e44c",
+    "mtime": 1762498345.9087682,
+    "size": 3639
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/The Proposal Playbook V2.0 - Multi-Stakeholder High-Value Engagements.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/The Proposal Playbook V2.0 - Multi-Stakeholder High-Value Engagements.md",
+    "hash": "787a5781439592de2abf705eeb208bdf",
+    "mtime": 1762498345.976981,
+    "size": 15562
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/The System Assurance Retainer.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/The System Assurance Retainer.md",
+    "hash": "e85c89d2282459038c17b989f777c26b",
+    "mtime": 1762498345.9875345,
+    "size": 4009
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/Proposal Template Selection Guide.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/Proposal Template Selection Guide.md",
+    "hash": "07712e5e4b47faa2aec1f1352da65f49",
+    "mtime": 1762498345.9640198,
+    "size": 12187
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/README.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/README.md",
+    "hash": "3881ef47d7f5e5a179188c80b318e4f5",
+    "mtime": 1762498345.967122,
+    "size": 9181
+  },
+  "external/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/The Proposal Template.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/Team Lift LLC - Consulting OS/1. MARKETING & SALES/1c. Client Acquisition (Templates)/The Proposal Template.md",
+    "hash": "ef2128530b8380ee598ca25667eb1e90",
+    "mtime": 1762498345.985625,
+    "size": 3236
+  },
+  "external/plans/memoryBankSync.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/memoryBankSync.md",
+    "hash": "2c519935e6829c651c06245a256b4c47",
+    "mtime": 1762498347.4130228,
+    "size": 60838
+  },
+  "external/plans/dan-martell-rebrand-risk-analysis.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/dan-martell-rebrand-risk-analysis.md",
+    "hash": "fd532bba2fe4e7a9176e8f00ad2c8328",
+    "mtime": 1762498347.3720202,
+    "size": 33241
+  },
+  "external/plans/ebook-draft-cleanup-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/ebook-draft-cleanup-plan.md",
+    "hash": "dbe8bf341e99ac7c83f02c99cb3d8946",
+    "mtime": 1762498347.3804054,
+    "size": 9347
+  },
+  "external/plans/buy-then-build-summary.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/buy-then-build-summary.md",
+    "hash": "061c5929aa0d413407906c0b8c059462",
+    "mtime": 1762498347.324334,
+    "size": 14984
+  },
+  "external/plans/notion-sync-comparison-previous-vs-current.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/notion-sync-comparison-previous-vs-current.md",
+    "hash": "969c04f694e7c5d90a63db315c221b7b",
+    "mtime": 1762498347.4443433,
+    "size": 21243
+  },
+  "external/plans/andrew-backstory-decision-guide.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/andrew-backstory-decision-guide.md",
+    "hash": "d282056623479a5bd2ba26431c7beac3",
+    "mtime": 1762498347.264182,
+    "size": 15115
+  },
+  "external/plans/repo-organization-solutions-nov-2025.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/repo-organization-solutions-nov-2025.md",
+    "hash": "23b3b7e8b80db2d0333c9a93793864cd",
+    "mtime": 1762498347.4915404,
+    "size": 16396
+  },
+  "external/plans/mbie-data-ingestion-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/mbie-data-ingestion-plan.md",
+    "hash": "b548d8fda402cd0eeaf7cf308f690daa",
+    "mtime": 1762498347.4031527,
+    "size": 20694
+  },
+  "external/plans/randy-ip-stack-ranking-complete.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/randy-ip-stack-ranking-complete.md",
+    "hash": "9a915c5843227da5a023ef4e69223a52",
+    "mtime": 1762498347.4798887,
+    "size": 40897
+  },
+  "external/plans/notion-mcp-working-patterns.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/notion-mcp-working-patterns.md",
+    "hash": "98f2c92d7297848907b6ae89c055d978",
+    "mtime": 1762498347.4332848,
+    "size": 14633
+  },
+  "external/plans/portfolio-ceo-acquisition-strategy.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/portfolio-ceo-acquisition-strategy.md",
+    "hash": "6cad238d6091ca2d8d6226466447f959",
+    "mtime": 1762498347.4632645,
+    "size": 30345
+  },
+  "external/plans/exit-multiplier-vs-andrew-method-UNBIASED-ANALYSIS.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/exit-multiplier-vs-andrew-method-UNBIASED-ANALYSIS.md",
+    "hash": "963fd1dfa3bb509d2d5098dc8ef1f78d",
+    "mtime": 1762498347.3916154,
+    "size": 30438
+  },
+  "external/plans/subagent-troubleshooting-guide.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/subagent-troubleshooting-guide.md",
+    "hash": "0caf8976473fcc81104333e0c6fe40dc",
+    "mtime": 1762498348.0818584,
+    "size": 11867
+  },
+  "external/plans/dan-martell-rebrand-board-COMPLETE-ANALYSIS.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/dan-martell-rebrand-board-COMPLETE-ANALYSIS.md",
+    "hash": "57e1249b6e85da5b21dfb1b7f1bbbed2",
+    "mtime": 1762498347.3473423,
+    "size": 13868
+  },
+  "external/plans/dan-martell-rebrand-implementation-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/dan-martell-rebrand-implementation-plan.md",
+    "hash": "db861e07a3e4e00eb7862827748635e9",
+    "mtime": 1762498347.3622832,
+    "size": 14430
+  },
+  "external/plans/randy-greg-acquisition-partnership-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/randy-greg-acquisition-partnership-plan.md",
+    "hash": "a4c438403d439cab276721d6c9db5311",
+    "mtime": 1762498347.468989,
+    "size": 16963
+  },
+  "external/plans/story-bank-expansion-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/story-bank-expansion-plan.md",
+    "hash": "39a5740bed80ce825c8995ee903ae32f",
+    "mtime": 1762498348.0623655,
+    "size": 18686
+  },
+  "external/plans/notion-markdown-hybrid-architecture.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/notion-markdown-hybrid-architecture.md",
+    "hash": "c52665366f0dd95775fa02d8ba58ea3f",
+    "mtime": 1762498347.4227657,
+    "size": 48960
+  },
+  "external/plans/dan-martell-rebrand-ICP-NEW-ALTERNATIVES.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/dan-martell-rebrand-ICP-NEW-ALTERNATIVES.md",
+    "hash": "0bd45654037d49cb0c20bfb1875cae59",
+    "mtime": 1762498347.3417072,
+    "size": 17523
+  },
+  "external/plans/buy-then-build-expert-review.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/buy-then-build-expert-review.md",
+    "hash": "c9bb0e9633a6bee7da9272730263b1fa",
+    "mtime": 1762498347.31083,
+    "size": 20594
+  },
+  "external/plans/hybrid-solution-risk-analysis.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/hybrid-solution-risk-analysis.md",
+    "hash": "87d1ed79eb603384650d0c450a7f4957",
+    "mtime": 1762498347.3966548,
+    "size": 16683
+  },
+  "external/plans/buy-then-build-implementation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/buy-then-build-implementation.md",
+    "hash": "f7893236753891b748ea90b6dcdeb72f",
+    "mtime": 1762498347.3169107,
+    "size": 51918
+  },
+  "external/plans/oversubscribed-implementation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/oversubscribed-implementation.md",
+    "hash": "055f47ef669947a24750e5d0286c192b",
+    "mtime": 1762498347.4530275,
+    "size": 16176
+  },
+  "external/plans/strategy-comparison-recommendation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/strategy-comparison-recommendation.md",
+    "hash": "efd9d13d6085e3567a2ed1d28cb8ee46",
+    "mtime": 1762498348.0719435,
+    "size": 18209
+  },
+  "external/plans/OverallPlan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/OverallPlan.md",
+    "hash": "8ce21012a161b1b7eb2d38b9428888f9",
+    "mtime": 1762498347.2586987,
+    "size": 10671
+  },
+  "external/plans/dan-martell-rebrand-COMPLETE-PACKAGE.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/dan-martell-rebrand-COMPLETE-PACKAGE.md",
+    "hash": "bdd414f18cf5b91570dc9833e5047393",
+    "mtime": 1762498347.3350587,
+    "size": 10802
+  },
+  "external/plans/subagent-optimization-analysis.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/subagent-optimization-analysis.md",
+    "hash": "e358a4ee751b10c9d2cede1606d46a65",
+    "mtime": 1762498348.0725305,
+    "size": 13965
+  },
+  "external/plans/dan-martell-rebrand-board-alternatives.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/dan-martell-rebrand-board-alternatives.md",
+    "hash": "92bc7a43d04e9f3b3c562484581a052a",
+    "mtime": 1762498347.3555572,
+    "size": 24785
+  },
+  "external/plans/mbie-notion-scaling-strategy.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/mbie-notion-scaling-strategy.md",
+    "hash": "c1c09a687d8076ea2df4477f664bb3c9",
+    "mtime": 1762498347.4047325,
+    "size": 18335
+  },
+  "external/plans/buyback-your-time-implementation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/buyback-your-time-implementation.md",
+    "hash": "023e4e6c9833c852cb17492a74a9ab76",
+    "mtime": 1762498347.3281693,
+    "size": 60022
+  },
+  "external/plans/memory-rag-analysis/README.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/memory-rag-analysis/README.md",
+    "hash": "9dc84e7eea4058239ab0770e781138c0",
+    "mtime": 1762498347.4050941,
+    "size": 1341
+  },
+  "external/plans/memory-rag-analysis/final-decision.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/memory-rag-analysis/final-decision.md",
+    "hash": "6ed74c4c3ccd2491a6bb7d903743682d",
+    "mtime": 1762498347.406557,
+    "size": 6404
+  },
+  "external/plans/memory-rag-analysis/executive-summary.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/memory-rag-analysis/executive-summary.md",
+    "hash": "e28b83804ea62eb399e0f83e01ed9f08",
+    "mtime": 1762498347.4063263,
+    "size": 2642
+  },
+  "external/plans/memory-rag-analysis/multi-agent-debate.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/memory-rag-analysis/multi-agent-debate.md",
+    "hash": "6ab20726bbbdd25a7de52f12cf0c7ac0",
+    "mtime": 1762498347.4067974,
+    "size": 6578
+  },
+  "external/plans/memory-rag-analysis/architecture-options.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/memory-rag-analysis/architecture-options.md",
+    "hash": "43710439d463275d1edce970ea5c3ca2",
+    "mtime": 1762498347.405819,
+    "size": 4891
+  },
+  "external/plans/archive/oversubscribed-evolution/oversubscribed-transformation-corrected.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/archive/oversubscribed-evolution/oversubscribed-transformation-corrected.md",
+    "hash": "f7ad4911b21501a9d0f902963d170666",
+    "mtime": 1762498347.2950127,
+    "size": 7221
+  },
+  "external/plans/archive/oversubscribed-evolution/oversubscribed-transformation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/archive/oversubscribed-evolution/oversubscribed-transformation.md",
+    "hash": "232fefa8d70cb442067c9d32921c5214",
+    "mtime": 1762498347.3021662,
+    "size": 2354
+  },
+  "external/plans/archive/oversubscribed-evolution/README.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/archive/oversubscribed-evolution/README.md",
+    "hash": "c9c7d3af3d2f5c4ea7ad8a034c6a66b8",
+    "mtime": 1762498347.270846,
+    "size": 2814
+  },
+  "external/plans/archive/oversubscribed-evolution/READY-TO-EXECUTE-SUMMARY.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/archive/oversubscribed-evolution/READY-TO-EXECUTE-SUMMARY.md",
+    "hash": "02b0996e4fc4e29f66c9e04ac85037c4",
+    "mtime": 1762498347.284441,
+    "size": 9087
+  },
+  "external/plans/archive/oversubscribed-evolution/oversubscribed-80-20-essentials.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/archive/oversubscribed-evolution/oversubscribed-80-20-essentials.md",
+    "hash": "9c8a903ede1c8c4134f4049d38cea21a",
+    "mtime": 1762498347.287567,
+    "size": 12047
+  },
+  "external/plans/Archived/reddit-supabase-migration-master-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/reddit-supabase-migration-master-plan.md",
+    "hash": "837cc09c2d282c31b77ea837424a320d",
+    "mtime": 1762498347.2581117,
+    "size": 23925
+  },
+  "external/plans/Archived/reddit-data-architecture-migration.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/reddit-data-architecture-migration.md",
+    "hash": "6f5fffa83630365138091770bc2de7e6",
+    "mtime": 1762498347.2527788,
+    "size": 32151
+  },
+  "external/plans/Archived/Claude_Code_Integration_Fix_Plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/Claude_Code_Integration_Fix_Plan.md",
+    "hash": "62e8c85d8e1a6939dacc6712347f275f",
+    "mtime": 1762498347.2309804,
+    "size": 10038
+  },
+  "external/plans/Archived/claude-code-learning-solutions.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/claude-code-learning-solutions.md",
+    "hash": "b38c0d6323c2f2e97e22f80a93472a1f",
+    "mtime": 1762498347.241734,
+    "size": 8851
+  },
+  "external/plans/Archived/Reddit_Automation_Optimization_Opportunities.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/Reddit_Automation_Optimization_Opportunities.md",
+    "hash": "990211e5c36f331b5be744679d72e99b",
+    "mtime": 1762498347.2360497,
+    "size": 6530
+  },
+  "external/plans/Archived/reddit-cholesterol-automation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/reddit-cholesterol-automation.md",
+    "hash": "a241b5fef6f061bc7090cf9e2202b7ec",
+    "mtime": 1762498347.2490776,
+    "size": 3516
+  },
+  "external/plans/Archived/STRUCTURE_REORGANIZATION.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/STRUCTURE_REORGANIZATION.md",
+    "hash": "2fb4149dcce5da8ed1fb98ef80991385",
+    "mtime": 1762498347.2376232,
+    "size": 7533
+  },
+  "external/plans/Archived/REPOSITORY_CLEANUP_PLAN.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/REPOSITORY_CLEANUP_PLAN.md",
+    "hash": "fdc43076ccf67a32ee1752901acb4ff4",
+    "mtime": 1762498347.2326276,
+    "size": 23115
+  },
+  "external/plans/Archived/MIGRATION_COMPLETE.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/MIGRATION_COMPLETE.md",
+    "hash": "bbb0104c34748ffe487a2a338abcf851",
+    "mtime": 1762498347.2320328,
+    "size": 7228
+  },
+  "external/plans/Archived/reddit-dashboard-integration.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/reddit-dashboard-integration.md",
+    "hash": "ad5b4f67460029280667ca26d58360bc",
+    "mtime": 1762498347.249574,
+    "size": 11569
+  },
+  "external/plans/Archived/credit-card-rewards-automation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/credit-card-rewards-automation.md",
+    "hash": "32873f28fb404fee87c652a4d39a700c",
+    "mtime": 1762498347.2428753,
+    "size": 6622
+  },
+  "external/plans/Archived/lifeOptimization.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/lifeOptimization.md",
+    "hash": "136f7ef3e9db76583fc20ab101505897",
+    "mtime": 1762498347.2474632,
+    "size": 27168
+  },
+  "external/plans/Archived/README.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/README.md",
+    "hash": "557906bdc3457f6668eaffdba9273e6c",
+    "mtime": 1762498347.2322392,
+    "size": 789
+  },
+  "external/plans/Archived/claude-code-time-saving-guide.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/claude-code-time-saving-guide.md",
+    "hash": "a45ef9e817a6e986b8861e1f42cd686e",
+    "mtime": 1762498347.2424366,
+    "size": 22540
+  },
+  "external/plans/Archived/ROADMAP.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/ROADMAP.md",
+    "hash": "3fe42cd485aef55efc7ef797810b9bea",
+    "mtime": 1762498347.2353895,
+    "size": 5718
+  },
+  "external/plans/Archived/IMPLEMENTATION_ANALYSIS.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/IMPLEMENTATION_ANALYSIS.md",
+    "hash": "8daa97815c5adb127858fdeea01e61f0",
+    "mtime": 1762498347.2315853,
+    "size": 10833
+  },
+  "external/plans/Archived/credit-card-solutions-evaluation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/credit-card-solutions-evaluation.md",
+    "hash": "9f824506e03ca14c1677651197a5c5f8",
+    "mtime": 1762498347.244586,
+    "size": 6409
+  },
+  "external/plans/Archived/claude-code-design-workflow-plan.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/claude-code-design-workflow-plan.md",
+    "hash": "6031bf07384515a643f00ec1d5f123dd",
+    "mtime": 1762498347.2413447,
+    "size": 64570
+  },
+  "external/plans/Archived/DASHBOARD_IMPROVEMENT_PLAN.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/DASHBOARD_IMPROVEMENT_PLAN.md",
+    "hash": "a906bfd9a14e2e9b8e393fa3bf2fd68f",
+    "mtime": 1762498347.2313201,
+    "size": 7396
+  },
+  "external/plans/Archived/Rolling_Window_Prompt_Sensitivity_Analysis.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/Rolling_Window_Prompt_Sensitivity_Analysis.md",
+    "hash": "b5d216518023db2ea716786965e69e19",
+    "mtime": 1762498347.2374227,
+    "size": 5949
+  },
+  "external/plans/Archived/reddit-storage-migration-implementation.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/reddit-storage-migration-implementation.md",
+    "hash": "c5e3d6f85406001c37537b129ed640af",
+    "mtime": 1762498347.2558632,
+    "size": 35119
+  },
+  "external/plans/Archived/autoLearningGuide.md": {
+    "absolute_path": "/Users/randallnguyen/GitHub/Personal/docs/plans/Archived/autoLearningGuide.md",
+    "hash": "53d9ee51140bfb3cf5d158440eb2295a",
+    "mtime": 1762498347.238179,
+    "size": 5702
+  }
+}
